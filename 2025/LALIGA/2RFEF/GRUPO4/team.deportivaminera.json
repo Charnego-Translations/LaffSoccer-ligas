@@ -1,0 +1,558 @@
+{
+  "_comment": "Deportiva Minera 2025-26",
+"name": "DEPORTIVA MINERA",
+"type": "CLUB",
+"country": "ESP",
+"league": "HISTÓRICOS",
+"city": "LLANO DEL BEAL",
+"stadium": "ÁNGEL CELDRÁN",
+"year": 2025,
+"coach": {
+	"name": "JOSÉ CARLOS ROMERO INFANTE",
+	"nationality": "ESP"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "BIG_V",
+		"shirt1": "#67385f",
+		"shirt2": "#a13156",
+		"shirt3": "#a1d5d6",
+		"shorts": "#55f307",
+		"socks": "#04b348"
+	},
+	{
+		"style": "HORIZONTAL",
+		"shirt1": "#7bfc03",
+		"shirt2": "#b6c5d6",
+		"shirt3": "#e97158",
+		"shorts": "#77d16c",
+		"socks": "#0dfc77"
+	},
+	{
+		"style": "SPICE",
+		"shirt1": "#4f5c46",
+		"shirt2": "#b79209",
+		"shirt3": "#f7d1e9",
+		"shorts": "#879ce1",
+		"socks": "#407eb3"
+	}
+],
+"players": [
+	{
+		"name": "ALEJANDRO LÁZARO RODRÍGUEZ",
+		"shirtName": "ÁLEX LÁZARO",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "PIGTAIL_A",
+		"value": 17
+	},
+	{
+		"name": "LUIS ENRIQUE CARRASCO ACOSTA",
+		"shirtName": "KIKE",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 16,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 1,
+			"tackling": 3,
+			"control": 2,
+			"speed": 2,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SHOOTING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "ALEJANDRO MACÍAS SÁNCHEZ",
+		"shirtName": "ÁLEX MACÍAS",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 3,
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"PASSING"
+		]
+	},
+	{
+		"name": "MANUEL GALÁN ÚBERO",
+		"shirtName": "MANU GALÁN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "ASIATIC",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 5,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 2,
+			"speed": 4,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"CONTROL",
+			"HEADING"
+		]
+	},
+	{
+		"name": "DIEGO MIRAPEIX ARANCÓN",
+		"shirtName": "MIRAPEIX",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 2,
+		"skinColor": "ALIEN",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 5,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 3,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SHOOTING",
+			"TACKLING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "FRANCISCO TORRES MUÑOZ",
+		"shirtName": "PACO",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 20,
+		"skinColor": "RED",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"HEADING",
+			"CONTROL",
+			"TACKLING",
+			"FINISHING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "JAVIER VERA LÓPEZ",
+		"shirtName": "VERA",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 6,
+		"skinColor": "RED",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 3,
+			"control": 2,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "DAMIÁN EZEQUIEL PETCOFF KAILER",
+		"shirtName": "PETCOFF",
+		"nationality": "ARG",
+		"role": "MIDFIELDER",
+		"number": 5,
+		"skinColor": "ASIATIC",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 5,
+			"control": 3,
+			"speed": 3,
+			"finishing": 5
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "ROBERTO ALARCÓN GONZÁLEZ",
+		"shirtName": "ALARCÓN",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "MULATTO",
+		"hairColor": "BLOND",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "JOSÉ OMAR PERDOMO MACHADO",
+		"shirtName": "OMAR",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 10,
+		"skinColor": "PINK",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 1,
+			"control": 4,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED",
+			"SHOOTING",
+			"PASSING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "RUBÉN MESA VISIGA",
+		"shirtName": "MESA",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 9,
+		"skinColor": "RED",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 3,
+			"control": 2,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING"
+		]
+	},
+	{
+		"name": "BUENAVENTURA GÓMEZ ESPADAS",
+		"shirtName": "VENTURA",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 13,
+		"skinColor": "RED",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_E",
+		"value": 38
+	},
+	{
+		"name": "JOSÉ ÁNGEL AYALA HERNÁNDEZ",
+		"shirtName": "AYALA",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 14,
+		"skinColor": "RED",
+		"hairColor": "RED",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 6,
+			"control": 3,
+			"speed": 6,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING",
+			"SPEED",
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "SEBASTIÁN HOLGADO POZO",
+		"shirtName": "SEBAS",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 15,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "MOHAMED KAMAL ABDESELAM EL HAMDI",
+		"shirtName": "KAMAL",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 8,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 1,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 4,
+			"control": 5,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "ÁLVARO SALINAS GARCÍA",
+		"shirtName": "SALINAS",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 11,
+		"skinColor": "BLACK",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "CURLY_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED",
+			"SHOOTING",
+			"CONTROL",
+			"PASSING",
+			"TACKLING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "KEVIN STEPHEN TONER",
+		"shirtName": "TONER",
+		"nationality": "IRL",
+		"role": "DEFENDER",
+		"number": 21,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "SPECIAL_D",
+		"skills": {
+			"passing": 5,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "ÓSCAR ZORRILLA JIMÉNEZ",
+		"shirtName": "ZORRILLA",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 19,
+		"skinColor": "RED",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 2,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"PASSING"
+		]
+	},
+	{
+		"name": "EGHOSA AUGUSTINE BELLO",
+		"shirtName": "BELLO",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 17,
+		"skinColor": "ASIATIC",
+		"hairColor": "BLACK",
+		"hairStyle": "THINNING_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"FINISHING",
+			"PASSING",
+			"SHOOTING",
+			"CONTROL",
+			"SPEED"
+		]
+	},
+	{
+		"name": "JUAN CARLOS FERNÁNDEZ MARÍN",
+		"shirtName": "PITU",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 22,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_F",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"SPEED",
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "DAVID MARTÍNEZ BARCELÓ",
+		"shirtName": "MARTÍNEZ",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 28,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "THINNING_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 4,
+			"tackling": 4,
+			"control": 3,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"CONTROL",
+			"SHOOTING",
+			"HEADING",
+			"SPEED",
+			"PASSING"
+		]
+	},
+	{
+		"name": "BABACAR FEDIOR",
+		"shirtName": "BABACAR",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 18,
+		"skinColor": "ALIEN",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "MAX BRIAN WEBB",
+		"shirtName": "BRIAN",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 29,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "THINNING_C",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 2,
+			"speed": 5,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SHOOTING",
+			"HEADING",
+			"PASSING"
+		]
+	}
+]
+}

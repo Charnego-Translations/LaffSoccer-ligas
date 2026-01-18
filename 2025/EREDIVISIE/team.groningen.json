@@ -1,0 +1,745 @@
+{
+  "_comment": "Groningen 2025-26",
+"name": "GRONINGEN",
+"type": "CLUB",
+"country": "ESP",
+"league": "HISTÓRICOS",
+"city": "GRONINGEN",
+"stadium": "EUROBORG",
+"year": 2025,
+"coach": {
+	"name": "DICK LUKKIEN",
+	"nationality": "ESP"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "LARGE_STRIPS",
+		"shirt1": "#dd02d7",
+		"shirt2": "#fcb119",
+		"shirt3": "#9dc870",
+		"shorts": "#834373",
+		"socks": "#e41b7b"
+	},
+	{
+		"style": "VERTICAL_STRIP",
+		"shirt1": "#ab08a5",
+		"shirt2": "#deee99",
+		"shirt3": "#4e0789",
+		"shorts": "#2f44d6",
+		"socks": "#d0ed43"
+	},
+	{
+		"style": "STRIP",
+		"shirt1": "#226edb",
+		"shirt2": "#8c11a6",
+		"shirt3": "#282c39",
+		"shorts": "#a5d5bd",
+		"socks": "#636696"
+	}
+],
+"players": [
+	{
+		"name": "ETIENNE VAESSEN BURNE",
+		"shirtName": "VAESSEN",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "ALIEN",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_C",
+		"value": 31
+	},
+	{
+		"name": "THIJMEN BLOKZIJL",
+		"shirtName": "BLOKZIJL",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 3,
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_N",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "MARVIN PEERSMAN",
+		"shirtName": "PEERSMAN",
+		"nationality": "BEL",
+		"role": "LEFT_BACK",
+		"number": 43,
+		"skinColor": "BLACK",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 2,
+			"control": 5,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"SPEED",
+			"CONTROL",
+			"FINISHING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "DIES JANSE",
+		"shirtName": "JANSE",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING",
+			"CONTROL",
+			"TACKLING",
+			"SPEED",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "MARCO RENTE",
+		"shirtName": "RENTE",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 5,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "STIJE RESINK",
+		"shirtName": "RESINK",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 6,
+		"skinColor": "PINK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"PASSING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "YOUNES TAHA EL IDRISSI",
+		"shirtName": "TAHA",
+		"nationality": "MAR",
+		"role": "MIDFIELDER",
+		"number": 10,
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 5,
+			"control": 4,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING",
+			"FINISHING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "JORG SCHREUDERS",
+		"shirtName": "SCHREUDERS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 14,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 5,
+			"tackling": 4,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "TIKA DE JONGE",
+		"shirtName": "DE JONGE",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 8,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "THINNING_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"SPEED",
+			"PASSING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "THOM VAN BERGEN",
+		"shirtName": "VAN BERGEN",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 26,
+		"skinColor": "BLACK",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 6,
+			"heading": 3,
+			"tackling": 3,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "BRYNJOLFUR ANDERSEN WILLUMSSON",
+		"shirtName": "WILLUMSSON",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 9,
+		"skinColor": "ASIATIC",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 2,
+			"control": 3,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "HIDDE JURJUS",
+		"shirtName": "JURJUS",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 21,
+		"skinColor": "MULATTO",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "THINNING_B",
+		"value": 33
+	},
+	{
+		"name": "DAVID VAN DER WERFF",
+		"shirtName": "VAN DER WERFF",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 17,
+		"skinColor": "PINK",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_C",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING",
+			"TACKLING",
+			"SPEED",
+			"HEADING",
+			"CONTROL",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "TYRIQUE CHRISTOPHER MERCERA",
+		"shirtName": "MERCERA",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 16,
+		"skinColor": "RED",
+		"hairColor": "BLOND",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 0,
+			"heading": 1,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"FINISHING",
+			"PASSING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "MATS SEUNTJENS",
+		"shirtName": "SEUNTJENS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 20,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_D",
+		"skills": {
+			"passing": 5,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"CONTROL",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "WOUTER PRINS",
+		"shirtName": "PRINS",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 2,
+		"skinColor": "PALE",
+		"hairColor": "BROWN",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 1,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"HEADING",
+			"PASSING",
+			"TACKLING",
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "LOVRO ŠTUBLJAR",
+		"shirtName": "ŠTUBLJAR",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 13,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_N",
+		"value": 15
+	},
+	{
+		"name": "TYGO LAND",
+		"shirtName": "LAND",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 18,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_H",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 4,
+			"control": 5,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"PASSING"
+		]
+	},
+	{
+		"name": "OSKAR ZAWADA",
+		"shirtName": "ZAWADA",
+		"nationality": "POL",
+		"role": "ATTACKER",
+		"number": 19,
+		"skinColor": "PINK",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_H",
+		"skills": {
+			"passing": 2,
+			"shooting": 5,
+			"heading": 2,
+			"tackling": 5,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SHOOTING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "RUI JORGE MONTEIRO MENDES",
+		"shirtName": "RUI MENDES",
+		"nationality": "POR",
+		"role": "ATTACKER",
+		"number": 27,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "THINNING_C",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 2,
+			"control": 4,
+			"speed": 4,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"PASSING",
+			"HEADING",
+			"SPEED",
+			"TACKLING",
+			"CONTROL",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "MARK HOEKSTRA",
+		"shirtName": "HOEKSTRA",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 69,
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 1,
+			"control": 3,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "NOAM FRITZ EMERAN",
+		"shirtName": "EMERAN",
+		"nationality": "FRA",
+		"role": "ATTACKER",
+		"number": 11,
+		"skinColor": "PINK",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 4,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 1,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "SVEN BOULAND",
+		"shirtName": "BOULAND",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 22,
+		"skinColor": "BLACK",
+		"hairColor": "BLOND",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 2,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING",
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "NILS EGGENS",
+		"shirtName": "EGGENS",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 57,
+		"skinColor": "BLACK",
+		"hairColor": "WHITE",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 6,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 6,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED",
+			"TACKLING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "ROBIN KELDER",
+		"shirtName": "KELDER",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 48,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 4,
+			"control": 4,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL",
+			"TACKLING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "TRAVIS ENRIQUE HERNES",
+		"shirtName": "HERNES",
+		"nationality": "NOR",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 5,
+			"control": 3,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "JISMERAI DILLEMA",
+		"shirtName": "DILLEMA",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 44,
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_O",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SHOOTING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "YÉNIO HOLDER",
+		"shirtName": "HOLDER",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 55,
+		"skinColor": "PINK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 2,
+			"control": 4,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "DIRK BARON",
+		"shirtName": "BARON",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 24,
+		"skinColor": "ASIATIC",
+		"hairColor": "BLOND",
+		"hairStyle": "SPECIAL_C",
+		"value": 28
+	},
+	{
+		"name": "ELVIS VAN DER LAAN",
+		"shirtName": "VAN DER LAAN",
+		"nationality": "SWE",
+		"role": "DEFENDER",
+		"number": 15,
+		"skinColor": "PINK",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_P",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 1,
+			"tackling": 5,
+			"control": 6,
+			"speed": 5,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"CONTROL",
+			"PASSING",
+			"FINISHING",
+			"TACKLING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "STIJN PETIET",
+		"shirtName": "PETIET",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 41,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_D",
+		"value": 26
+	},
+	{
+		"name": "FOFIN TURAY",
+		"shirtName": "TURAY",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 23,
+		"skinColor": "RED",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 1,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 5,
+			"control": 4,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"HEADING",
+			"FINISHING",
+			"SPEED",
+			"SHOOTING",
+			"TACKLING",
+			"PASSING"
+		]
+	}
+]
+}

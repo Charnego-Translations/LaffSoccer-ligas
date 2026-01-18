@@ -1,0 +1,784 @@
+{
+  "_comment": "Newcastle 2025-26",
+"name": "NEWCASTLE",
+"type": "CLUB",
+"country": "ESP",
+"league": "HISTÓRICOS",
+"city": "NEWCASTLE UPON TYNE",
+"stadium": "ST. JAMES' PARK",
+"year": 2025,
+"coach": {
+	"name": "EDWARD JOHN FRANK HOWE",
+	"nationality": "ESP"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "BIG_V",
+		"shirt1": "#0f01ac",
+		"shirt2": "#a82fc2",
+		"shirt3": "#1247eb",
+		"shorts": "#15fae6",
+		"socks": "#dae596"
+	},
+	{
+		"style": "ARMBAND",
+		"shirt1": "#3a3338",
+		"shirt2": "#e34a52",
+		"shirt3": "#371b5b",
+		"shorts": "#fc7704",
+		"socks": "#7d503c"
+	},
+	{
+		"style": "DIAGONAL_HALF",
+		"shirt1": "#5567c0",
+		"shirt2": "#570f9c",
+		"shirt3": "#a6e338",
+		"shorts": "#ef0814",
+		"socks": "#a39727"
+	}
+],
+"players": [
+	{
+		"name": "NICHOLAS DAVID POPE",
+		"shirtName": "POPE",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "ARAB",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_D",
+		"value": 28
+	},
+	{
+		"name": "MALICK LAYE THIAW",
+		"shirtName": "THIAW",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 12,
+		"skinColor": "PINK",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 2,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED",
+			"HEADING"
+		]
+	},
+	{
+		"name": "VALENTINO FRANCISCO LIVRAMENTO",
+		"shirtName": "LIVRAMENTO",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 21,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "BALD_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 2,
+			"tackling": 1,
+			"control": 3,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SPEED",
+			"HEADING",
+			"FINISHING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "DANIEL JOHNSON BURN",
+		"shirtName": "BURN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 33,
+		"skinColor": "RED",
+		"hairColor": "BROWN",
+		"hairStyle": "THINNING_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "FABIAN LUKAS SCHÄR",
+		"shirtName": "SCHÄR",
+		"nationality": "SUI",
+		"role": "DEFENDER",
+		"number": 5,
+		"skinColor": "RED",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_H",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 5,
+			"tackling": 4,
+			"control": 5,
+			"speed": 5,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "BRUNO GUIMARÃES RODRIGUES MOURA",
+		"shirtName": "BRUNO GUIMARÃES",
+		"nationality": "BRA",
+		"role": "MIDFIELDER",
+		"number": 39,
+		"skinColor": "ARAB",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_H",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 5,
+			"tackling": 3,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "SANDRO TONALI",
+		"shirtName": "TONALI",
+		"nationality": "ITA",
+		"role": "MIDFIELDER",
+		"number": 8,
+		"skinColor": "ASIATIC",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "JOELINTON CASSIO APOLINÁRIO DE LIRA",
+		"shirtName": "JOELINTON",
+		"nationality": "BRA",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 4,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "NICK WOLTEMADE",
+		"shirtName": "WOLTEMADE",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 27,
+		"skinColor": "ALIEN",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 3,
+			"speed": 5,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"PASSING",
+			"SPEED",
+			"HEADING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "ANTHONY MICHAEL GORDON",
+		"shirtName": "GORDON",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 10,
+		"skinColor": "RED",
+		"hairColor": "GRAY",
+		"hairStyle": "SHORT_C",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 1,
+			"control": 3,
+			"speed": 3,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SPEED",
+			"PASSING",
+			"TACKLING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "JACOB KAI MURPHY",
+		"shirtName": "MURPHY",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 23,
+		"skinColor": "ALIEN",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_E",
+		"skills": {
+			"passing": 4,
+			"shooting": 5,
+			"heading": 2,
+			"tackling": 4,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SPEED",
+			"TACKLING",
+			"PASSING",
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "AARON CHRISTOPHER RAMSDALE",
+		"shirtName": "RAMSDALE",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 32,
+		"skinColor": "BLACK",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_A",
+		"value": 12
+	},
+	{
+		"name": "HARVEY LEWIS BARNES",
+		"shirtName": "BARNES",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 11,
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 6,
+			"heading": 0,
+			"tackling": 2,
+			"control": 4,
+			"speed": 5,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING",
+			"PASSING",
+			"FINISHING",
+			"CONTROL",
+			"SPEED",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "LEWIS MILEY",
+		"shirtName": "MILEY",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 67,
+		"skinColor": "ALIEN",
+		"hairColor": "WHITE",
+		"hairStyle": "SHAVED",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "LEWIS KIERAN HALL",
+		"shirtName": "HALL",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 3,
+		"skinColor": "MULATTO",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 2,
+			"control": 1,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"HEADING",
+			"CONTROL",
+			"FINISHING",
+			"SHOOTING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "ANTHONY DAVID JUNIOR ELANGA",
+		"shirtName": "ELANGA",
+		"nationality": "SWE",
+		"role": "ATTACKER",
+		"number": 20,
+		"skinColor": "PALE",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "CURLY_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 4,
+			"control": 4,
+			"speed": 5,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "JOHN THOMAS GORDON RUDDY",
+		"shirtName": "RUDDY",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 26,
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_F",
+		"value": 36
+	},
+	{
+		"name": "SVEN ADRIAAN BOTMAN",
+		"shirtName": "BOTMAN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "MULATTO",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_I",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 2,
+			"speed": 3,
+			"finishing": 5
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "KIERAN JOHN TRIPPIER",
+		"shirtName": "TRIPPIER",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 2,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 5,
+			"tackling": 5,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "JACOB MATTHEW RAMSEY",
+		"shirtName": "RAMSEY",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 41,
+		"skinColor": "MULATTO",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 1,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"TACKLING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "JOSEPH GEORGE WILLOCK",
+		"shirtName": "WILLOCK",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 28,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 3,
+			"shooting": 1,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"PASSING",
+			"SHOOTING",
+			"SPEED",
+			"FINISHING",
+			"TACKLING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "WILLIAM IDAMUDIA DAUGAARD OSULA",
+		"shirtName": "OSULA",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 18,
+		"skinColor": "ALIEN",
+		"hairColor": "GRAY",
+		"hairStyle": "PIGTAIL_C",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL"
+		]
+	},
+	{
+		"name": "YOANE WISSA",
+		"shirtName": "WISSA",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 9,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 2,
+			"control": 3,
+			"speed": 6,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"CONTROL",
+			"TACKLING",
+			"PASSING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "EMIL HENRY KRISTOFFER KRAFTH",
+		"shirtName": "KRAFTH",
+		"nationality": "SWE",
+		"role": "RIGHT_BACK",
+		"number": 17,
+		"skinColor": "MULATTO",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_E",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 5,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "JAMAAL LASCELLES",
+		"shirtName": "LASCELLES",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 6,
+		"skinColor": "ARAB",
+		"hairColor": "BROWN",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 2,
+			"control": 3,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "ALEX MURPHY",
+		"shirtName": "MURPHY",
+		"nationality": "IRL",
+		"role": "DEFENDER",
+		"number": 37,
+		"skinColor": "PALE",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 6,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"SPEED",
+			"CONTROL",
+			"HEADING"
+		]
+	},
+	{
+		"name": "SEAN THOMAS NEAVE",
+		"shirtName": "NEAVE",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 62,
+		"skinColor": "ARAB",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_H",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 2,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "LEO OREN SHAHAR",
+		"shirtName": "SHAHAR",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 61,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_E",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 4,
+			"control": 4,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "ADEDAMOLA SAMUEL IREOLUWAJOBA ALABI",
+		"shirtName": "ALABI",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 85,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "PARK SEUNG-SOO",
+		"shirtName": "PARK",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 64,
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 6,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"SPEED",
+			"HEADING",
+			"CONTROL",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "MARK JOSEPH GILLESPIE",
+		"shirtName": "GILLESPIE",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 29,
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "CURLY_B",
+		"value": 26
+	},
+	{
+		"name": "HARRISON CHARLES ASHBY",
+		"shirtName": "ASHBY",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 30,
+		"skinColor": "ALIEN",
+		"hairColor": "RED",
+		"hairStyle": "PIGTAIL_B",
+		"skills": {
+			"passing": 6,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 5,
+			"control": 5,
+			"speed": 3,
+			"finishing": 0
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"FINISHING",
+			"HEADING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "MAX ANTHONY THOMPSON",
+		"shirtName": "THOMPSON",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 31,
+		"skinColor": "ASIATIC",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_O",
+		"value": 20
+	},
+	{
+		"name": "BEN PARKINSON",
+		"shirtName": "PARKINSON",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 41,
+		"skinColor": "MULATTO",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ADAM ALAN HARRISON",
+		"shirtName": "HARRISON",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 59,
+		"skinColor": "PALE",
+		"hairColor": "BROWN",
+		"hairStyle": "BALD_A",
+		"value": 23
+	}
+]
+}

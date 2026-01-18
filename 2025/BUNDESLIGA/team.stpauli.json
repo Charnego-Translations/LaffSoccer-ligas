@@ -1,0 +1,728 @@
+{
+  "_comment": "St. Pauli 2025-26",
+"name": "ST. PAULI",
+"type": "CLUB",
+"country": "GER",
+"league": "HISTÓRICOS",
+"city": "HAMBURGO",
+"stadium": "MILLERNTOR-STADION",
+"year": 2025,
+"coach": {
+	"name": "ALEXANDER MATTHIAS BLESSIN",
+	"nationality": "GER"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "VERTICAL_STRIP",
+		"shirt1": "#641b50",
+		"shirt2": "#105446",
+		"shirt3": "#995aba",
+		"shorts": "#4db455",
+		"socks": "#7bcf41"
+	},
+	{
+		"style": "SPICE",
+		"shirt1": "#c4e5f7",
+		"shirt2": "#ae38e3",
+		"shirt3": "#c1f9f4",
+		"shorts": "#f91293",
+		"socks": "#3101ce"
+	},
+	{
+		"style": "SPICE",
+		"shirt1": "#3b77db",
+		"shirt2": "#0bdb34",
+		"shirt3": "#788f38",
+		"shorts": "#c20d90",
+		"socks": "#818b42"
+	}
+],
+"players": [
+	{
+		"name": "NIKOLA VASILJ",
+		"shirtName": "VASILJ",
+		"nationality": "BIH",
+		"role": "GOALKEEPER",
+		"number": 22,
+		"skinColor": "ARAB",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_M",
+		"value": 27
+	},
+	{
+		"name": "ARKADIUSZ PYRKA",
+		"shirtName": "PYRKA",
+		"nationality": "POL",
+		"role": "DEFENDER",
+		"number": 11,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_P",
+		"skills": {
+			"passing": 5,
+			"shooting": 1,
+			"heading": 1,
+			"tackling": 4,
+			"control": 5,
+			"speed": 4,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SPEED",
+			"HEADING",
+			"CONTROL",
+			"PASSING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "LOUIS OPPIE",
+		"shirtName": "OPPIE",
+		"nationality": "GER",
+		"role": "LEFT_BACK",
+		"number": 23,
+		"skinColor": "MULATTO",
+		"hairColor": "WHITE",
+		"hairStyle": "THINNING_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 2,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"PASSING",
+			"TACKLING",
+			"SPEED",
+			"HEADING"
+		]
+	},
+	{
+		"name": "ERIC ANDERS SMITH",
+		"shirtName": "SMITH",
+		"nationality": "SWE",
+		"role": "DEFENDER",
+		"number": 8,
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "THINNING_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 3,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING"
+		]
+	},
+	{
+		"name": "HAUKE FINN WAHL",
+		"shirtName": "WAHL",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 5,
+		"skinColor": "PINK",
+		"hairColor": "RED",
+		"hairStyle": "SPECIAL_D",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 2,
+			"control": 2,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"CONTROL",
+			"SHOOTING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "JAMES HOBAN SANDS",
+		"shirtName": "SANDS",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 6,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_E",
+		"skills": {
+			"passing": 5,
+			"shooting": 5,
+			"heading": 3,
+			"tackling": 3,
+			"control": 4,
+			"speed": 5,
+			"finishing": 1
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "KAROL METS",
+		"shirtName": "METS",
+		"nationality": "EST",
+		"role": "DEFENDER",
+		"number": 3,
+		"skinColor": "MULATTO",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"CONTROL",
+			"PASSING"
+		]
+	},
+	{
+		"name": "JOEL CHIMA FUJITA",
+		"shirtName": "FUJITA",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 16,
+		"skinColor": "PALE",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_P",
+		"skills": {
+			"passing": 5,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"CONTROL",
+			"HEADING",
+			"SHOOTING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "MATHIAS PEREIRA LAGE",
+		"shirtName": "PEREIRA",
+		"nationality": "POR",
+		"role": "ATTACKER",
+		"number": 28,
+		"skinColor": "MULATTO",
+		"hairColor": "RED",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 0,
+			"shooting": 6,
+			"heading": 3,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING",
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "DANEL SINANI",
+		"shirtName": "SINANI",
+		"nationality": "SRB",
+		"role": "ATTACKER",
+		"number": 10,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 3,
+			"control": 0,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "ANDREAS WILLIAM HOUNTONDJI",
+		"shirtName": "HOUNTONDJI",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 27,
+		"skinColor": "ALIEN",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 5,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 3,
+			"control": 5,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"CONTROL",
+			"FINISHING",
+			"PASSING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "BEN VOLL",
+		"shirtName": "VOLL",
+		"nationality": "GER",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "PINK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_K",
+		"value": 33
+	},
+	{
+		"name": "MARTIJN KAARS",
+		"shirtName": "KAARS",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 19,
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 2,
+			"control": 3,
+			"speed": 6,
+			"finishing": 6
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"FINISHING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "ADAM DŹWIGAŁA",
+		"shirtName": "DZWIGALA",
+		"nationality": "POL",
+		"role": "DEFENDER",
+		"number": 25,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_C",
+		"skills": {
+			"passing": 5,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 5,
+			"control": 5,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "CONNOR ISAAC METCALFE",
+		"shirtName": "METCALFE",
+		"nationality": "AUS",
+		"role": "MIDFIELDER",
+		"number": 24,
+		"skinColor": "ALIEN",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_I",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 2,
+			"control": 3,
+			"speed": 2,
+			"finishing": 1
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "JACKSON ALEXANDER IRVINE",
+		"shirtName": "IRVINE",
+		"nationality": "AUS",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 2,
+			"control": 5,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING"
+		]
+	},
+	{
+		"name": "LARS RITZKA",
+		"shirtName": "RITZKA",
+		"nationality": "GER",
+		"role": "LEFT_BACK",
+		"number": 21,
+		"skinColor": "RED",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 4,
+			"control": 3,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"TACKLING"
+		]
+	},
+	{
+		"name": "MANOLIS SALIAKAS",
+		"shirtName": "SALIAKAS",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 2,
+		"skinColor": "MULATTO",
+		"hairColor": "GRAY",
+		"hairStyle": "BALD_A",
+		"skills": {
+			"passing": 5,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 4,
+			"control": 6,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "ABDOULIE CEESAY",
+		"shirtName": "CEESAY",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 9,
+		"skinColor": "ALIEN",
+		"hairColor": "GRAY",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 2,
+			"shooting": 1,
+			"heading": 4,
+			"tackling": 3,
+			"control": 2,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"PASSING",
+			"HEADING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "OLADAPO JOSHUA AFOLAYAN",
+		"shirtName": "AFOLAYAN",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 17,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_A",
+		"skills": {
+			"passing": 1,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 4,
+			"control": 3,
+			"speed": 6,
+			"finishing": 6
+		},
+		"bestSkills": [
+			"FINISHING",
+			"PASSING",
+			"TACKLING",
+			"SPEED",
+			"HEADING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "RICKY JADE-JONES",
+		"shirtName": "JADE-JONES",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 26,
+		"skinColor": "RED",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_J",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED",
+			"TACKLING",
+			"FINISHING",
+			"SHOOTING",
+			"PASSING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ERIK MELKER AHLSTRAND",
+		"shirtName": "AHLSTRAND",
+		"nationality": "SWE",
+		"role": "MIDFIELDER",
+		"number": 20,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 5,
+			"heading": 3,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"TACKLING",
+			"FINISHING",
+			"PASSING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "JANNIK ROBATSCH",
+		"shirtName": "ROBATSCH",
+		"nationality": "AUT",
+		"role": "DEFENDER",
+		"number": 34,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 2,
+			"control": 5,
+			"speed": 1,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "FINLEY JOHN STEVENS",
+		"shirtName": "STEVENS",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 14,
+		"skinColor": "RED",
+		"hairColor": "PLATINUM",
+		"hairStyle": "BALD_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 5,
+			"control": 5,
+			"speed": 3,
+			"finishing": 1
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "NICK SCHMIDT",
+		"shirtName": "SCHMIDT",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 44,
+		"skinColor": "RED",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 2,
+			"control": 2,
+			"speed": 1,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"FINISHING",
+			"SPEED",
+			"HEADING",
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "SCOTT BRIAN BANKS",
+		"shirtName": "BANKS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 18,
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_H",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 1,
+			"control": 3,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "MAURIDES ROQUE JÚNIOR",
+		"shirtName": "MAURIDES",
+		"nationality": "BRA",
+		"role": "ATTACKER",
+		"number": 49,
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "CURLY_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 4,
+			"control": 2,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "DAVID NEMETH",
+		"shirtName": "NEMETH",
+		"nationality": "AUT",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "ASIATIC",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_O",
+		"skills": {
+			"passing": 6,
+			"shooting": 1,
+			"heading": 3,
+			"tackling": 3,
+			"control": 3,
+			"speed": 5,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"SPEED",
+			"PASSING"
+		]
+	},
+	{
+		"name": "ROMEO AIGBEKAEN",
+		"shirtName": "AIGBEKAEN",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 38,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "BALD_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 2,
+			"speed": 1,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "MARWIN REINER IAN SCHMITZ",
+		"shirtName": "SCHMITZ",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 42,
+		"skinColor": "BLACK",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_N",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 3,
+			"control": 5,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SPEED",
+			"TACKLING",
+			"FINISHING",
+			"SHOOTING"
+		]
+	}
+]
+}

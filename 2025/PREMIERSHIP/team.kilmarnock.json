@@ -1,0 +1,830 @@
+{
+  "_comment": "Kilmarnock 2025-26",
+"name": "KILMARNOCK",
+"type": "CLUB",
+"country": "ESP",
+"league": "HISTÓRICOS",
+"city": "KILMARNOCK",
+"stadium": "RUGBY PARK",
+"year": 2025,
+"coach": {
+	"name": "STUART KETTLEWELL",
+	"nationality": "ESP"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "CHECK",
+		"shirt1": "#7032f5",
+		"shirt2": "#6c9818",
+		"shirt3": "#166888",
+		"shorts": "#c84c06",
+		"socks": "#942492"
+	},
+	{
+		"style": "CROSS",
+		"shirt1": "#a6e6de",
+		"shirt2": "#eb5d4e",
+		"shirt3": "#7db167",
+		"shorts": "#401cfb",
+		"socks": "#d40525"
+	},
+	{
+		"style": "DIAGONAL",
+		"shirt1": "#8e90d9",
+		"shirt2": "#c42640",
+		"shirt3": "#28ec52",
+		"shorts": "#49fae3",
+		"socks": "#abc4b5"
+	}
+],
+"players": [
+	{
+		"name": "TOBY OLUWAYEMI",
+		"shirtName": "OLUWAYEMI",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 20,
+		"skinColor": "ARAB",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_B",
+		"value": 19
+	},
+	{
+		"name": "JAMES BROWN",
+		"shirtName": "BROWN",
+		"nationality": "IRL",
+		"role": "RIGHT_BACK",
+		"number": 15,
+		"skinColor": "PINK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_H",
+		"skills": {
+			"passing": 4,
+			"shooting": 5,
+			"heading": 1,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "DOMINIC LEWIS THOMPSON",
+		"shirtName": "THOMPSON",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 3,
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 6,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 5,
+			"control": 4,
+			"speed": 6,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"SPEED",
+			"CONTROL",
+			"PASSING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "LEWIS WILLIAM MAYO",
+		"shirtName": "MAYO",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 5,
+		"skinColor": "MULATTO",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 4,
+			"control": 3,
+			"speed": 1,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED",
+			"SHOOTING",
+			"TACKLING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "ROBBIE GUTHRIE DEAS",
+		"shirtName": "DEAS",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 6,
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"PASSING",
+			"TACKLING",
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "DAVID SHANKLAND WATSON",
+		"shirtName": "WATSON",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 12,
+		"skinColor": "RED",
+		"hairColor": "WHITE",
+		"hairStyle": "BALD_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 2,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "BRADLEY JOSEPH LYONS",
+		"shirtName": "LYONS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 8,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 3,
+			"control": 2,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "LIAM POLWORTH",
+		"shirtName": "POLWORTH",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 31,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "THINNING_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"FINISHING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "GREG KILTIE",
+		"shirtName": "KILTIE",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 11,
+		"skinColor": "MULATTO",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "BRUCE ANDERSON",
+		"shirtName": "ANDERSON",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 19,
+		"skinColor": "MULATTO",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_A",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 1,
+			"control": 4,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL",
+			"PASSING"
+		]
+	},
+	{
+		"name": "MARCUS DACKERS",
+		"shirtName": "DACKERS",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 9,
+		"skinColor": "PINK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 1,
+			"control": 2,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"HEADING",
+			"FINISHING",
+			"TACKLING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "MAKSYMILIAN STRYJEK",
+		"shirtName": "STRYJEK",
+		"nationality": "POL",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_G",
+		"value": 35
+	},
+	{
+		"name": "BEN BRANNAN",
+		"shirtName": "BRANNAN",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 26,
+		"skinColor": "MULATTO",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 2,
+			"control": 4,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"CONTROL",
+			"HEADING",
+			"TACKLING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "GEORGE WILLIAM STANGER",
+		"shirtName": "STANGER",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 14,
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 4,
+			"control": 5,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"SPEED",
+			"SHOOTING",
+			"PASSING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ETHAN LAKE SCHILTE-BROWN",
+		"shirtName": "SCHILTE-BROWN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 25,
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 4,
+			"control": 3,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED",
+			"HEADING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "TYREECE JOHN-JULES",
+		"shirtName": "JOHN-JULES",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 24,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 5,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 7,
+			"control": 3,
+			"speed": 5,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SPEED"
+		]
+	},
+	{
+		"name": "EDDIE JAMES BEACH",
+		"shirtName": "BEACH",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 30,
+		"skinColor": "RED",
+		"hairColor": "BLOND",
+		"hairStyle": "SHAVED",
+		"value": 30
+	},
+	{
+		"name": "TOM LOWERY",
+		"shirtName": "LOWERY",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 18,
+		"skinColor": "PINK",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 5,
+			"control": 2,
+			"speed": 3,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"TACKLING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "SCOTT TIFFONEY",
+		"shirtName": "TIFFONEY",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 17,
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 1,
+			"tackling": 2,
+			"control": 3,
+			"speed": 6,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"TACKLING",
+			"PASSING",
+			"SPEED",
+			"CONTROL",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "RORY WILLIAM MCKENZIE",
+		"shirtName": "MCKENZIE",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "RED",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_P",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 6
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "MICHAEL ISAAC WILLIAMS",
+		"shirtName": "WILLIAMS",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "PIGTAIL_C",
+		"skills": {
+			"passing": 6,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 4,
+			"control": 3,
+			"speed": 5,
+			"finishing": 1
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "DJENAIRO GILLIAN NOELL DANIELS",
+		"shirtName": "DANIELS",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 29,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 1,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"HEADING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "JACK THOMSON",
+		"shirtName": "THOMSON",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 22,
+		"skinColor": "ARAB",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SPEED"
+		]
+	},
+	{
+		"name": "MARLEY JOSEPH WATKINS",
+		"shirtName": "WATKINS",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 23,
+		"skinColor": "PINK",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_J",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 2,
+			"control": 4,
+			"speed": 5,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"CONTROL",
+			"HEADING",
+			"FINISHING",
+			"PASSING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "JAMIE BRANDON",
+		"shirtName": "BRANDON",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 2,
+		"skinColor": "PINK",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 1,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "KYLE MAGENNIS",
+		"shirtName": "MAGENNIS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 16,
+		"skinColor": "ALIEN",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 0,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 4,
+			"control": 2,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING"
+		]
+	},
+	{
+		"name": "MICHAEL SCHJØNNING-LARSEN",
+		"shirtName": "SCHJØNNING-LARSEN",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 21,
+		"skinColor": "PALE",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SPECIAL_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 1,
+			"control": 4,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING",
+			"PASSING",
+			"SPEED",
+			"CONTROL",
+			"SHOOTING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "KIAN LESLIE",
+		"shirtName": "LESLIE",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 27,
+		"skinColor": "ALIEN",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 5,
+			"shooting": 5,
+			"heading": 4,
+			"tackling": 2,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"PASSING"
+		]
+	},
+	{
+		"name": "ARCHIE TRAYNOR",
+		"shirtName": "TRAYNOR",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 38,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 2,
+			"control": 3,
+			"speed": 1,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "COLE COUGHLIN",
+		"shirtName": "COUGHLIN",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 42,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 2,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"PASSING",
+			"TACKLING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "COREY ARMOUR",
+		"shirtName": "ARMOUR",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 40,
+		"skinColor": "PINK",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_B",
+		"value": 19
+	},
+	{
+		"name": "RUARI ELLIS",
+		"shirtName": "ELLIS",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 32,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 2,
+			"control": 2,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"PASSING",
+			"CONTROL",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "AARON DAVIS",
+		"shirtName": "DAVIS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 35,
+		"skinColor": "RED",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_C",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 2,
+			"control": 3,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "MATTHEW KENNEDY",
+		"shirtName": "KENNEDY",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 10,
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 6,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ROBBY MCCRORIE",
+		"shirtName": "MCCRORIE",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 20,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_D",
+		"value": 31
+	},
+	{
+		"name": "COLE BURKE",
+		"shirtName": "BURKE",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 37,
+		"skinColor": "RED",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 3,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"SPEED",
+			"SHOOTING",
+			"HEADING",
+			"CONTROL",
+			"FINISHING",
+			"PASSING"
+		]
+	}
+]
+}

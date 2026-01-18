@@ -1,0 +1,857 @@
+{
+  "_comment": "Manchester United 2025-26",
+"name": "MANCHESTER UNITED",
+"type": "CLUB",
+"country": "ESP",
+"league": "HISTÓRICOS",
+"city": "MANCHESTER",
+"stadium": "OLD TRAFFORD",
+"year": 2025,
+"coach": {
+	"name": "RÚBEN FILIPE MARQUES AMORIM",
+	"nationality": "POR"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "SPICE",
+		"shirt1": "#a8a1f7",
+		"shirt2": "#377755",
+		"shirt3": "#c88b56",
+		"shorts": "#049bf6",
+		"socks": "#5cfd8c"
+	},
+	{
+		"style": "BIG_V",
+		"shirt1": "#301f94",
+		"shirt2": "#4fd043",
+		"shirt3": "#676441",
+		"shorts": "#63fa57",
+		"socks": "#6f4792"
+	},
+	{
+		"style": "STRIP",
+		"shirt1": "#e3abac",
+		"shirt2": "#58faaa",
+		"shirt3": "#190a43",
+		"shorts": "#5e315d",
+		"socks": "#ef7f8e"
+	}
+],
+"players": [
+	{
+		"name": "SENNE LAMMENS",
+		"shirtName": "LAMMENS",
+		"nationality": "BEL",
+		"role": "GOALKEEPER",
+		"number": 31,
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_D",
+		"value": 19
+	},
+	{
+		"name": "AMAD DIALLO TRAORÉ",
+		"shirtName": "DIALLO",
+		"nationality": "CIV",
+		"role": "RIGHT_BACK",
+		"number": 16,
+		"skinColor": "MULATTO",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 2,
+			"shooting": 5,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"SPEED",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "JOSÉ DIOGO DALOT TEIXEIRA",
+		"shirtName": "DALOT",
+		"nationality": "POR",
+		"role": "LEFT_BACK",
+		"number": 2,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SPECIAL_F",
+		"skills": {
+			"passing": 4,
+			"shooting": 5,
+			"heading": 5,
+			"tackling": 5,
+			"control": 3,
+			"speed": 2,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "LUKE PAUL HOARE SHAW",
+		"shirtName": "SHAW",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 23,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "BALD_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 5,
+			"control": 5,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"CONTROL",
+			"FINISHING",
+			"HEADING",
+			"SPEED",
+			"TACKLING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "MATTHIJS DE LIGT",
+		"shirtName": "DE LIGT",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "ASIATIC",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_I",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 4,
+			"control": 3,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING"
+		]
+	},
+	{
+		"name": "LENY JEAN-LUC YORO",
+		"shirtName": "YORO",
+		"nationality": "FRA",
+		"role": "DEFENDER",
+		"number": 15,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 5,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"FINISHING",
+			"SHOOTING",
+			"CONTROL",
+			"SPEED"
+		]
+	},
+	{
+		"name": "CARLOS HENRIQUE JOSÉ FRANCISCO VENANCIO CASIMIRO",
+		"shirtName": "CASEMIRO",
+		"nationality": "BRA",
+		"role": "MIDFIELDER",
+		"number": 18,
+		"skinColor": "PINK",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_N",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"HEADING",
+			"CONTROL",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "BRUNO MIGUEL BORGES FERNANDES",
+		"shirtName": "BRUNO FERNANDES",
+		"nationality": "POR",
+		"role": "MIDFIELDER",
+		"number": 8,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 5,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 3,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SPEED",
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "MASON TONY MOUNT",
+		"shirtName": "MOUNT",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "ALIEN",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"FINISHING",
+			"PASSING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "MATHEUS SANTOS CARNEIRO DA CUNHA",
+		"shirtName": "CUNHA",
+		"nationality": "BRA",
+		"role": "ATTACKER",
+		"number": 10,
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_H",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 3,
+			"tackling": 1,
+			"control": 4,
+			"speed": 5,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "BRYAN TETSADONG MARCEAU MBEUMO",
+		"shirtName": "MBEUMO",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 19,
+		"skinColor": "PINK",
+		"hairColor": "WHITE",
+		"hairStyle": "PIGTAIL_C",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "ALTAY BAYINDIR",
+		"shirtName": "ALTAY",
+		"nationality": "TUR",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "SHORT_A",
+		"value": 25
+	},
+	{
+		"name": "PATRICK CHINAZAEKPERE DORGU",
+		"shirtName": "DORGU",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 13,
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "BENJAMIN ŠEŠKO",
+		"shirtName": "ŠEŠKO",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 30,
+		"skinColor": "ASIATIC",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_I",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 6,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"PASSING",
+			"TACKLING",
+			"SHOOTING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "MANUEL UGARTE RIBEIRO",
+		"shirtName": "UGARTE",
+		"nationality": "URU",
+		"role": "MIDFIELDER",
+		"number": 25,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 1,
+			"tackling": 2,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"PASSING"
+		]
+	},
+	{
+		"name": "AYDEN EDFORD HEAVEN",
+		"shirtName": "HEAVEN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 26,
+		"skinColor": "ALIEN",
+		"hairColor": "BROWN",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING",
+			"FINISHING",
+			"SPEED",
+			"CONTROL",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "THOMAS DAVID HEATON",
+		"shirtName": "HEATON",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 22,
+		"skinColor": "ARAB",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_K",
+		"value": 21
+	},
+	{
+		"name": "JOSHUA OROBOSA ZIRKZEE",
+		"shirtName": "ZIRKZEE",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 11,
+		"skinColor": "RED",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 5,
+			"tackling": 5,
+			"control": 3,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"PASSING"
+		]
+	},
+	{
+		"name": "NOUSSAIR MAZRAOUI",
+		"shirtName": "MAZRAOUI",
+		"nationality": "MAR",
+		"role": "RIGHT_BACK",
+		"number": 3,
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "LISANDRO MARTÍNEZ",
+		"shirtName": "LISANDRO MARTÍNEZ",
+		"nationality": "ARG",
+		"role": "DEFENDER",
+		"number": 6,
+		"skinColor": "ASIATIC",
+		"hairColor": "BROWN",
+		"hairStyle": "CURLY_B",
+		"skills": {
+			"passing": 5,
+			"shooting": 1,
+			"heading": 3,
+			"tackling": 3,
+			"control": 2,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "KOBBIE BOATENG MAINOO",
+		"shirtName": "MAINOO",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 37,
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_F",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 3,
+			"control": 2,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SHOOTING",
+			"CONTROL",
+			"PASSING",
+			"SPEED",
+			"HEADING"
+		]
+	},
+	{
+		"name": "HARRY JACOB MAGUIRE",
+		"shirtName": "MAGUIRE",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 5,
+		"skinColor": "RED",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 4,
+			"control": 3,
+			"speed": 3,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"TACKLING",
+			"SPEED",
+			"SHOOTING",
+			"PASSING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "JACK DAVIDSON FLETCHER",
+		"shirtName": "FLETCHER",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 38,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 2,
+			"control": 2,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "SHEA LACEY",
+		"shirtName": "LACEY",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 61,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 0,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SPEED",
+			"PASSING",
+			"HEADING",
+			"TACKLING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "TYRELL JOHANNES CHICCO MALACIA",
+		"shirtName": "MALACIA",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 12,
+		"skinColor": "ALIEN",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 5,
+			"control": 6,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "TYLER EDWIN FREDRICSON",
+		"shirtName": "FREDRICSON",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 33,
+		"skinColor": "ASIATIC",
+		"hairColor": "GRAY",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 6,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "BENDITO BOANOVA MANTATO",
+		"shirtName": "MANTATO",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 70,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 0,
+			"shooting": 5,
+			"heading": 2,
+			"tackling": 2,
+			"control": 5,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"HEADING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "DIEGO BASILIO LEÓN BLANCO",
+		"shirtName": "LEÓN",
+		"nationality": "PAR",
+		"role": "LEFT_BACK",
+		"number": 35,
+		"skinColor": "MULATTO",
+		"hairColor": "WHITE",
+		"hairStyle": "BALD_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 4,
+			"control": 5,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"TACKLING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "TYLER ROBERT FLETCHER",
+		"shirtName": "FLETCHER",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 39,
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 1,
+			"heading": 4,
+			"tackling": 3,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"CONTROL",
+			"HEADING"
+		]
+	},
+	{
+		"name": "ANDRÉ ONANA ONANA",
+		"shirtName": "ONANA",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 24,
+		"skinColor": "PALE",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_B",
+		"value": 23
+	},
+	{
+		"name": "CHIDOZIE OBI-MARTIN",
+		"shirtName": "OBI",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 32,
+		"skinColor": "MULATTO",
+		"hairColor": "RED",
+		"hairStyle": "SPECIAL_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 2,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "GODWILL KUKONKI",
+		"shirtName": "KUKONKI",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 72,
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "BALD_A",
+		"skills": {
+			"passing": 5,
+			"shooting": 1,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "DERMOT WILLIAM MEE",
+		"shirtName": "MEE",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 45,
+		"skinColor": "ALIEN",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_H",
+		"value": 17
+	},
+	{
+		"name": "RHYS JOSEPH WRIGHT BENNETT",
+		"shirtName": "BENNETT",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 51,
+		"skinColor": "PALE",
+		"hairColor": "WHITE",
+		"hairStyle": "THINNING_C",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 3,
+			"control": 2,
+			"speed": 1,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "LOUIS PAUL JACKSON",
+		"shirtName": "JACKSON",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 54,
+		"skinColor": "RED",
+		"hairColor": "BLOND",
+		"hairStyle": "CURLY_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 6,
+			"control": 5,
+			"speed": 5,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SPEED",
+			"FINISHING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "SÉKOU KONÉ",
+		"shirtName": "KONÉ",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 42,
+		"skinColor": "ARAB",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_O",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "JAMES ROBERT SCANLON",
+		"shirtName": "SCANLON",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 59,
+		"skinColor": "MULATTO",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_C",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 5,
+			"control": 1,
+			"speed": 3,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"CONTROL"
+		]
+	}
+]
+}

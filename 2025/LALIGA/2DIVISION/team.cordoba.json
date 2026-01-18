@@ -1,0 +1,765 @@
+{
+  "_comment": "Córdoba 2025-26",
+"name": "CÓRDOBA",
+"type": "CLUB",
+"country": "ESP",
+"league": "HISTÓRICOS",
+"city": "CÓRDOBA",
+"stadium": "NUEVO ARCÁNGEL",
+"year": 2025,
+"coach": {
+	"name": "IVÁN ANIA CADAVIECO",
+	"nationality": "ESP"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "ARMBAND",
+		"shirt1": "#490774",
+		"shirt2": "#1c1ac4",
+		"shirt3": "#d08ae0",
+		"shorts": "#e7b1d8",
+		"socks": "#3c325b"
+	},
+	{
+		"style": "LINE",
+		"shirt1": "#bfb005",
+		"shirt2": "#29ae9a",
+		"shirt3": "#b02fbd",
+		"shorts": "#a5d6c5",
+		"socks": "#5d82c7"
+	},
+	{
+		"style": "HORIZONTAL",
+		"shirt1": "#7c23a5",
+		"shirt2": "#7b421e",
+		"shirt3": "#98438c",
+		"shorts": "#d9fde9",
+		"socks": "#fb7d15"
+	}
+],
+"players": [
+	{
+		"name": "IKER ÁLVAREZ DE EULATE MOLNÉ",
+		"shirtName": "IKER ÁLVAREZ",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "BLACK",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_G",
+		"value": 24
+	},
+	{
+		"name": "CARLOS ISAAC MUÑOZ OBEJERO",
+		"shirtName": "CARLOS ISAAC",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 22,
+		"skinColor": "ASIATIC",
+		"hairColor": "BROWN",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 5,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 5,
+			"speed": 5,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "CARLOS ALBARRÁN SANZ",
+		"shirtName": "ALBARRÁN",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 21,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 1,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"PASSING",
+			"SPEED",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "FRANCK FERRY FOMEYEM SOB",
+		"shirtName": "FOMEYEM",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 12,
+		"skinColor": "BLACK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 5,
+			"shooting": 1,
+			"heading": 0,
+			"tackling": 2,
+			"control": 3,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "XAVIER SINTES EGEA",
+		"shirtName": "SINTES",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 15,
+		"skinColor": "RED",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SPECIAL_H",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"PASSING",
+			"CONTROL",
+			"TACKLING",
+			"SHOOTING",
+			"FINISHING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "JACOBO GONZÁLEZ RODRIGÁÑEZ",
+		"shirtName": "JACOBO",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 10,
+		"skinColor": "MULATTO",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 2,
+			"control": 5,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"PASSING",
+			"TACKLING",
+			"FINISHING",
+			"SHOOTING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "ISMAEL RUIZ SÁNCHEZ",
+		"shirtName": "ISMA RUIZ",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 8,
+		"skinColor": "ASIATIC",
+		"hairColor": "BLOND",
+		"hairStyle": "BALD_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SPEED",
+			"HEADING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "DANIEL REQUENA SÁNCHEZ",
+		"shirtName": "REQUENA",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 30,
+		"skinColor": "ALIEN",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_M",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"HEADING"
+		]
+	},
+	{
+		"name": "DALISSON DE ALMEIDA LEITE",
+		"shirtName": "DALISSON",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 19,
+		"skinColor": "ALIEN",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 3,
+			"control": 2,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "CHRISTIAN CARRACEDO GARCÍA",
+		"shirtName": "CARRACEDO",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 23,
+		"skinColor": "ARAB",
+		"hairColor": "BLOND",
+		"hairStyle": "CURLY_C",
+		"skills": {
+			"passing": 1,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "ADRIÁN FUENTES GONZÁLEZ",
+		"shirtName": "FUENTES",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 18,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 3,
+			"speed": 2,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"CONTROL",
+			"HEADING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "CARLOS MARÍN TOMÁS",
+		"shirtName": "CARLOS MARÍN",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 13,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "THINNING_C",
+		"value": 31
+	},
+	{
+		"name": "SERGIO GUARDIOLA NAVARRO",
+		"shirtName": "SERGI GUARDIOLA",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 14,
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_O",
+		"skills": {
+			"passing": 2,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"PASSING",
+			"HEADING",
+			"SPEED",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "KEVIN VILLODRES MEDINA",
+		"shirtName": "KEVIN",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 11,
+		"skinColor": "PALE",
+		"hairColor": "BROWN",
+		"hairStyle": "THINNING_C",
+		"skills": {
+			"passing": 1,
+			"shooting": 3,
+			"heading": 0,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "RUBÉN GONZÁLEZ ALVES",
+		"shirtName": "RUBÉN ALVES",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 16,
+		"skinColor": "RED",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 4,
+			"control": 3,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"SPEED",
+			"FINISHING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "PEDRO ORTIZ BERNAT",
+		"shirtName": "PEDRO ORTIZ",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 24,
+		"skinColor": "MULATTO",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 3,
+			"control": 5,
+			"speed": 1,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"SHOOTING",
+			"SPEED",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ALEJANDRO ARÉVALO ARREBOLA",
+		"shirtName": "ARÉVALO",
+		"nationality": "ESP",
+		"role": "GOALKEEPER",
+		"number": 26,
+		"skinColor": "ALIEN",
+		"hairColor": "GRAY",
+		"hairStyle": "THINNING_A",
+		"value": 10
+	},
+	{
+		"name": "JOSÉ ALEJANDRO MARTÍN VALERÓN",
+		"shirtName": "ÁLEX MARTÍN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 4,
+		"skinColor": "ARAB",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_H",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING",
+			"HEADING",
+			"CONTROL",
+			"PASSING",
+			"SPEED",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "IGNASI VILARRASA PALACIOS",
+		"shirtName": "VILARRASA",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 2,
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 5,
+			"tackling": 4,
+			"control": 5,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ALBERTO DEL MORAL SAELICES",
+		"shirtName": "DEL MORAL",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 20,
+		"skinColor": "ASIATIC",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"CONTROL",
+			"SHOOTING",
+			"SPEED"
+		]
+	},
+	{
+		"name": "THEO ZIDANE FERNÁNDEZ",
+		"shirtName": "THEO ZIDANE",
+		"nationality": "FRA",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_J",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SPEED",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "JUAN MARÍA ALCEDO SERRANO",
+		"shirtName": "ALCEDO",
+		"nationality": "ESP",
+		"role": "LEFT_BACK",
+		"number": 3,
+		"skinColor": "ALIEN",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 5,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING"
+		]
+	},
+	{
+		"name": "DIEGO VICENTE BRI CARRAZONI",
+		"shirtName": "DIEGO BRI",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 5,
+		"skinColor": "ALIEN",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 1,
+			"control": 2,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"PASSING",
+			"FINISHING",
+			"SHOOTING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "NIKOLAI NIKOLAYEVICH OBOLSKIY",
+		"shirtName": "OBOLSKIY",
+		"nationality": "RUS",
+		"role": "DEFENDER",
+		"number": 9,
+		"skinColor": "RED",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 5,
+			"shooting": 0,
+			"heading": 2,
+			"tackling": 4,
+			"control": 4,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "MIQUEL JAN SALAS FRANCH",
+		"shirtName": "SALAS",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 28,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 1,
+			"tackling": 4,
+			"control": 5,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"PASSING",
+			"SHOOTING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "MARCELO STEPHANO TIMORÁN PAZ",
+		"shirtName": "TIMORÁN",
+		"nationality": "BOL",
+		"role": "ATTACKER",
+		"number": 33,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "SPECIAL_H",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 2,
+			"tackling": 1,
+			"control": 4,
+			"speed": 6,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"HEADING",
+			"TACKLING",
+			"FINISHING",
+			"CONTROL",
+			"PASSING"
+		]
+	},
+	{
+		"name": "DIEGO PERTEJO CANSECO",
+		"shirtName": "PERCAN",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 6,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "CURLY_C",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 2,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"HEADING"
+		]
+	},
+	{
+		"name": "ÁLEX SALA HERRERO",
+		"shirtName": "SALA",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 6,
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 5,
+			"tackling": 4,
+			"control": 4,
+			"speed": 4,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"CONTROL",
+			"TACKLING",
+			"SPEED",
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "MIGUEL MUÑOZ MEDIAVILLA",
+		"shirtName": "MIGUELÓN",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 31,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_P",
+		"skills": {
+			"passing": 4,
+			"shooting": 1,
+			"heading": 3,
+			"tackling": 3,
+			"control": 5,
+			"speed": 5,
+			"finishing": 0
+		},
+		"bestSkills": [
+			"PASSING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "DANIEL GARCÍA LÓPEZ",
+		"shirtName": "DANI GARCÍA",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 37,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_J",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 5,
+			"control": 4,
+			"speed": 4,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "DANIEL ALBUERA FERNÁNDEZ",
+		"shirtName": "ALBUERA",
+		"nationality": "ESP",
+		"role": "RIGHT_BACK",
+		"number": 32,
+		"skinColor": "RED",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 6,
+			"shooting": 2,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "ADILSON MENDES MARTINS",
+		"shirtName": "ADILSON",
+		"nationality": "POR",
+		"role": "ATTACKER",
+		"number": 17,
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_A",
+		"skills": {
+			"passing": 2,
+			"shooting": 1,
+			"heading": 4,
+			"tackling": 3,
+			"control": 5,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"SHOOTING"
+		]
+	}
+]
+}

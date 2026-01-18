@@ -1,0 +1,837 @@
+{
+  "_comment": "Mainz 05 2025-26",
+"name": "MAINZ 05",
+"type": "CLUB",
+"country": "GER",
+"league": "HISTÓRICOS",
+"city": "MAINZ",
+"stadium": "COFACE ARENA",
+"year": 2025,
+"coach": {
+	"name": "BO BJØRNHOLT HENRIKSEN",
+	"nationality": "ESP"
+},
+"tactics": "4-4-2",
+"kits": [
+	{
+		"style": "LINE",
+		"shirt1": "#cd507b",
+		"shirt2": "#6ae1a3",
+		"shirt3": "#839280",
+		"shorts": "#ee2632",
+		"socks": "#5a642b"
+	},
+	{
+		"style": "BIG_CHECK",
+		"shirt1": "#ad2698",
+		"shirt2": "#934802",
+		"shirt3": "#b0cad5",
+		"shorts": "#57d711",
+		"socks": "#576f55"
+	},
+	{
+		"style": "CROSS",
+		"shirt1": "#66ff25",
+		"shirt2": "#1ea37c",
+		"shirt3": "#77a584",
+		"shorts": "#f39259",
+		"socks": "#41526e"
+	}
+],
+"players": [
+	{
+		"name": "ROBIN ZENTNER",
+		"shirtName": "ZENTNER",
+		"nationality": "GER",
+		"role": "GOALKEEPER",
+		"number": 27,
+		"skinColor": "ALIEN",
+		"hairColor": "WHITE",
+		"hairStyle": "SMOOTH_B",
+		"value": 37
+	},
+	{
+		"name": "DANNY VIEIRA DA COSTA",
+		"shirtName": "DANNY DA COSTA",
+		"nationality": "GER",
+		"role": "RIGHT_BACK",
+		"number": 21,
+		"skinColor": "ALIEN",
+		"hairColor": "BLOND",
+		"hairStyle": "SHAVED",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 2,
+			"control": 5,
+			"speed": 3,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"PASSING",
+			"SHOOTING",
+			"CONTROL",
+			"TACKLING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "PHILLIPP MWENE",
+		"shirtName": "MWENE",
+		"nationality": "AUT",
+		"role": "LEFT_BACK",
+		"number": 2,
+		"skinColor": "PALE",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 3,
+			"shooting": 5,
+			"heading": 3,
+			"tackling": 4,
+			"control": 0,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "ANDREAS SCHJØLBERG HANCHE-OLSEN",
+		"shirtName": "HANCHE-OLSEN",
+		"nationality": "NOR",
+		"role": "DEFENDER",
+		"number": 25,
+		"skinColor": "MULATTO",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_D",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 5,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "SILVAN DOMINIC WIDMER",
+		"shirtName": "WIDMER",
+		"nationality": "SUI",
+		"role": "RIGHT_BACK",
+		"number": 30,
+		"skinColor": "PINK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SPECIAL_H",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 5,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"FINISHING",
+			"SHOOTING",
+			"HEADING",
+			"TACKLING",
+			"CONTROL",
+			"SPEED"
+		]
+	},
+	{
+		"name": "KAISHU SANO",
+		"shirtName": "SANO",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 6,
+		"skinColor": "ALIEN",
+		"hairColor": "BLOND",
+		"hairStyle": "SMOOTH_K",
+		"skills": {
+			"passing": 2,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 1,
+			"control": 4,
+			"speed": 2,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"PASSING",
+			"CONTROL",
+			"FINISHING",
+			"HEADING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "LEE JAE-SUNG",
+		"shirtName": "LEE",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 7,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "THINNING_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 5,
+			"control": 2,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING"
+		]
+	},
+	{
+		"name": "NADIEM AMIRI",
+		"shirtName": "AMIRI",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 10,
+		"skinColor": "PALE",
+		"hairColor": "BLOND",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SPEED",
+			"PASSING",
+			"CONTROL",
+			"FINISHING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "DOMINIK KOHR",
+		"shirtName": "KOHR",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 31,
+		"skinColor": "ARAB",
+		"hairColor": "BROWN",
+		"hairStyle": "PIGTAIL_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 3,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED",
+			"CONTROL",
+			"TACKLING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "BENEDICT HOLLERBACH",
+		"shirtName": "HOLLERBACH",
+		"nationality": "GER",
+		"role": "ATTACKER",
+		"number": 17,
+		"skinColor": "ARAB",
+		"hairColor": "PLATINUM",
+		"hairStyle": "SMOOTH_G",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 1,
+			"control": 4,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING",
+			"SPEED",
+			"CONTROL",
+			"TACKLING",
+			"SHOOTING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "PAUL NEBEL",
+		"shirtName": "NEBEL",
+		"nationality": "GER",
+		"role": "ATTACKER",
+		"number": 8,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 4,
+			"tackling": 3,
+			"control": 3,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"HEADING",
+			"SPEED",
+			"CONTROL",
+			"TACKLING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "DANIEL BATZ",
+		"shirtName": "BATZ",
+		"nationality": "GER",
+		"role": "GOALKEEPER",
+		"number": 33,
+		"skinColor": "ARAB",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_F",
+		"value": 12
+	},
+	{
+		"name": "STEFAN BELL",
+		"shirtName": "BELL",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 16,
+		"skinColor": "ALIEN",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SPECIAL_C",
+		"skills": {
+			"passing": 1,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 4,
+			"control": 2,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"PASSING",
+			"FINISHING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "ARNAUD DOMINIQUE NORDIN",
+		"shirtName": "NORDIN",
+		"nationality": "FRA",
+		"role": "ATTACKER",
+		"number": 9,
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
+		"hairStyle": "BALD_B",
+		"skills": {
+			"passing": 4,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 4,
+			"control": 1,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"HEADING"
+		]
+	},
+	{
+		"name": "NELSON FELIX PATRICK WEIPER",
+		"shirtName": "WEIPER",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 44,
+		"skinColor": "ASIATIC",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 3,
+			"shooting": 1,
+			"heading": 4,
+			"tackling": 2,
+			"control": 2,
+			"speed": 3,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"CONTROL",
+			"TACKLING",
+			"FINISHING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "NIKOLAS KONRAD VERATSCHNIG",
+		"shirtName": "VERATSCHNIG",
+		"nationality": "AUT",
+		"role": "MIDFIELDER",
+		"number": 22,
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
+		"hairStyle": "BALD_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 5,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING"
+		]
+	},
+	{
+		"name": "LASSE RIESS",
+		"shirtName": "RIESS",
+		"nationality": "GER",
+		"role": "GOALKEEPER",
+		"number": 1,
+		"skinColor": "ASIATIC",
+		"hairColor": "WHITE",
+		"hairStyle": "SPECIAL_F",
+		"value": 18
+	},
+	{
+		"name": "ARMINDO SIEB",
+		"shirtName": "SIEB",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 11,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "PIGTAIL_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 4,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SPEED",
+			"TACKLING",
+			"PASSING"
+		]
+	},
+	{
+		"name": "LENNARD PATRICK MALONEY",
+		"shirtName": "MALONEY",
+		"nationality": "ESP",
+		"role": "DEFENDER",
+		"number": 15,
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "THINNING_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 4,
+			"tackling": 6,
+			"control": 5,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"FINISHING",
+			"SHOOTING",
+			"PASSING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "SOTA KAWASAKI",
+		"shirtName": "KAWASAKI",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 24,
+		"skinColor": "RED",
+		"hairColor": "BROWN",
+		"hairStyle": "SMOOTH_D",
+		"skills": {
+			"passing": 2,
+			"shooting": 2,
+			"heading": 1,
+			"tackling": 3,
+			"control": 3,
+			"speed": 1,
+			"finishing": 1
+		},
+		"bestSkills": [
+			"SPEED"
+		]
+	},
+	{
+		"name": "ANTHONY CACI",
+		"shirtName": "CACI",
+		"nationality": "FRA",
+		"role": "RIGHT_BACK",
+		"number": 19,
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 5,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 4,
+			"control": 3,
+			"speed": 2,
+			"finishing": 2
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "WILLIAM BØVING VICK",
+		"shirtName": "BØVING",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 14,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_F",
+		"skills": {
+			"passing": 4,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 1,
+			"control": 3,
+			"speed": 2,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "KACPER POTULSKI",
+		"shirtName": "POTULSKI",
+		"nationality": "POL",
+		"role": "DEFENDER",
+		"number": 48,
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_G",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 3,
+			"tackling": 5,
+			"control": 2,
+			"speed": 5,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"FINISHING",
+			"HEADING",
+			"PASSING",
+			"CONTROL",
+			"SHOOTING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "MAXIM LEITSCH",
+		"shirtName": "LEITSCH",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 5,
+		"skinColor": "ALIEN",
+		"hairColor": "BROWN",
+		"hairStyle": "CURLY_D",
+		"skills": {
+			"passing": 3,
+			"shooting": 1,
+			"heading": 2,
+			"tackling": 5,
+			"control": 3,
+			"speed": 5,
+			"finishing": 2
+		},
+		"bestSkills": [
+			"FINISHING",
+			"PASSING",
+			"SPEED",
+			"SHOOTING",
+			"HEADING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "BEN JUSTUS BOBZIEN",
+		"shirtName": "BOBZIEN",
+		"nationality": "GER",
+		"role": "ATTACKER",
+		"number": 37,
+		"skinColor": "BLACK",
+		"hairColor": "RED",
+		"hairStyle": "SHORT_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 2,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"TACKLING",
+			"PASSING",
+			"HEADING",
+			"FINISHING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "FABIO MORENO FELL",
+		"shirtName": "MORENO",
+		"nationality": "ESP",
+		"role": "ATTACKER",
+		"number": 36,
+		"skinColor": "ASIATIC",
+		"hairColor": "BLACK",
+		"hairStyle": "SHAVED",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 3,
+			"tackling": 4,
+			"control": 1,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"CONTROL",
+			"PASSING",
+			"TACKLING",
+			"SPEED",
+			"HEADING"
+		]
+	},
+	{
+		"name": "PHILIP TIETZ",
+		"shirtName": "TIETZ",
+		"nationality": "GER",
+		"role": "ATTACKER",
+		"number": 20,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_B",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"SHOOTING",
+			"HEADING",
+			"FINISHING",
+			"CONTROL"
+		]
+	},
+	{
+		"name": "DANIEL GLEIBER",
+		"shirtName": "GLEIBER",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 42,
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
+		"hairStyle": "CURLY_A",
+		"skills": {
+			"passing": 4,
+			"shooting": 3,
+			"heading": 2,
+			"tackling": 4,
+			"control": 5,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"PASSING"
+		]
+	},
+	{
+		"name": "KONSTANTIN SCHOPP",
+		"shirtName": "SCHOPP",
+		"nationality": "AUT",
+		"role": "DEFENDER",
+		"number": 23,
+		"skinColor": "ASIATIC",
+		"hairColor": "PUNK_FUCHSIA",
+		"hairStyle": "SMOOTH_L",
+		"skills": {
+			"passing": 3,
+			"shooting": 3,
+			"heading": 1,
+			"tackling": 5,
+			"control": 4,
+			"speed": 6,
+			"finishing": 3
+		},
+		"bestSkills": []
+	},
+	{
+		"name": "MARCO RICHTER",
+		"shirtName": "RICHTER",
+		"nationality": "GER",
+		"role": "ATTACKER",
+		"number": 13,
+		"skinColor": "RED",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_E",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 4,
+			"tackling": 4,
+			"control": 4,
+			"speed": 2,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"SPEED",
+			"TACKLING",
+			"CONTROL",
+			"PASSING",
+			"HEADING"
+		]
+	},
+	{
+		"name": "NIKLAS TAUER",
+		"shirtName": "TAUER",
+		"nationality": "GER",
+		"role": "MIDFIELDER",
+		"number": 28,
+		"skinColor": "ASIATIC",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_A",
+		"skills": {
+			"passing": 3,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 3,
+			"control": 4,
+			"speed": 3,
+			"finishing": 3
+		},
+		"bestSkills": [
+			"TACKLING",
+			"CONTROL",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "KASEY BOS",
+		"shirtName": "BOS",
+		"nationality": "AUS",
+		"role": "ATTACKER",
+		"number": 18,
+		"skinColor": "ALIEN",
+		"hairColor": "BLACK",
+		"hairStyle": "SHORT_B",
+		"skills": {
+			"passing": 2,
+			"shooting": 4,
+			"heading": 2,
+			"tackling": 0,
+			"control": 3,
+			"speed": 4,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING",
+			"SHOOTING",
+			"FINISHING"
+		]
+	},
+	{
+		"name": "MAXIM BORA DAL",
+		"shirtName": "DAL",
+		"nationality": "GER",
+		"role": "DEFENDER",
+		"number": 47,
+		"skinColor": "RED",
+		"hairColor": "BLOND",
+		"hairStyle": "SPECIAL_C",
+		"skills": {
+			"passing": 5,
+			"shooting": 4,
+			"heading": 1,
+			"tackling": 3,
+			"control": 3,
+			"speed": 4,
+			"finishing": 5
+		},
+		"bestSkills": [
+			"FINISHING",
+			"HEADING",
+			"TACKLING"
+		]
+	},
+	{
+		"name": "LOUIS MARLON BABATZ",
+		"shirtName": "BABATZ",
+		"nationality": "GER",
+		"role": "GOALKEEPER",
+		"number": 35,
+		"skinColor": "ASIATIC",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_K",
+		"value": 19
+	},
+	{
+		"name": "JEREMIAH GYEKYE ADDO DEBRAH",
+		"shirtName": "DEBRAH",
+		"nationality": "ESP",
+		"role": "MIDFIELDER",
+		"number": 38,
+		"skinColor": "MULATTO",
+		"hairColor": "WHITE",
+		"hairStyle": "BALD_B",
+		"skills": {
+			"passing": 5,
+			"shooting": 2,
+			"heading": 3,
+			"tackling": 3,
+			"control": 3,
+			"speed": 3,
+			"finishing": 4
+		},
+		"bestSkills": [
+			"PASSING",
+			"FINISHING",
+			"HEADING",
+			"CONTROL"
+		]
+	}
+]
+}
