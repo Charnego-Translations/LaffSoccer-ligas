@@ -1,6 +1,5 @@
 {
-  "_comment": "Valencia 2025-26",
-"name": "VALENCIA",
+"name": "VALENCIA CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#3d3138",
-		"shirt2": "#9c719c",
-		"shirt3": "#2217c3",
-		"shorts": "#46b112",
-		"socks": "#377512"
+		"style": "PLAIN",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#519d7a",
-		"shirt2": "#03eab9",
-		"shirt3": "#9970a3",
-		"shorts": "#bddcdb",
-		"socks": "#ca0e67"
+		"style": "PLAIN",
+		"shirt1": "#993333",
+		"shirt2": "#f5732c",
+		"shirt3": "#f5732c",
+		"shorts": "#993333",
+		"socks": "#993333"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#807844",
-		"shirt2": "#47e3c8",
-		"shirt3": "#ff3dd7",
-		"shorts": "#ee7ba1",
-		"socks": "#34b64d"
+		"style": "VERTICAL",
+		"shirt1": "#ffd200",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "POR",
 		"role": "RIGHT_BACK",
 		"number": 12,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -79,9 +78,9 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 1,
@@ -125,9 +124,9 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
-		"hairStyle": "SPECIAL_E",
+		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 5,
 			"shooting": 3,
@@ -150,9 +149,9 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 16,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
-		"hairStyle": "SMOOTH_P",
+		"hairStyle": "SPECIAL_A",
 		"skills": {
 			"passing": 2,
 			"shooting": 4,
@@ -309,7 +308,7 @@
 		"nationality": "ARG",
 		"role": "ATTACKER",
 		"number": 15,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -357,12 +356,12 @@
 		]
 	},
 	{
-		"name": "BAPTISTE MARC ANDRÉ DANIEL SANTAMARIA",
+		"name": "BAPTISTE MARC ANDRÉ DANIEL",
 		"shirtName": "SANTAMARIA",
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 22,
-		"skinColor": "ALIEN",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -387,7 +386,7 @@
 		"nationality": "FRA",
 		"role": "RIGHT_BACK",
 		"number": 20,
-		"skinColor": "ALIEN",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -471,7 +470,7 @@
 		"nationality": "GIN",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -497,7 +496,7 @@
 		"nationality": "SUI",
 		"role": "MIDFIELDER",
 		"number": 23,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -593,7 +592,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 27,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {

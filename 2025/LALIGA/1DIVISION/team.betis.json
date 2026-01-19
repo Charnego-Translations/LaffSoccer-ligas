@@ -1,5 +1,5 @@
 {
-"name": "BETIS",
+"name": "REAL BETIS",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -13,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "VERTICAL",
+		"style": "LARGE_STRIPS",
 		"shirt1": "#dfe8eb",
 		"shirt2": "#417039",
 		"shirt3": "#417039",
-		"shorts": "#dfe8eb",
+		"shorts": "#1e1e1e",
 		"socks": "#417039"
 	},
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#a5e0c8",
-		"shirt2": "#79ca74",
-		"shirt3": "#56b633",
-		"shorts": "#78b857",
-		"socks": "#1285e3"
+		"style": "DIAGONAL",
+		"shirt1": "#47bfeb",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#30c52c",
+		"shorts": "#47bfeb",
+		"socks": "#47bfeb"
 	},
 	{
 		"style": "SPICE",
-		"shirt1": "#188d29",
-		"shirt2": "#712901",
-		"shirt3": "#4e7860",
-		"shorts": "#7f1fa8",
-		"socks": "#37976d"
+		"shirt1": "#1e1e1e",
+		"shirt2": "#30c52c",
+		"shirt3": "#30c52c",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -224,7 +224,7 @@
 		"nationality": "COL",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "ARAB",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
@@ -306,7 +306,7 @@
 		"number": 25,
 		"skinColor": "ARAB",
 		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SPECIAL_H",
 		"value": 26
 	},
 	{
@@ -315,7 +315,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 17,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -408,7 +408,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_B",
 		"value": 34
@@ -560,7 +560,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "BLACK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_L",
 		"skills": {

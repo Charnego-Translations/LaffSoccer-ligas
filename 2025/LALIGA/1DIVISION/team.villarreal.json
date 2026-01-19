@@ -1,6 +1,5 @@
 {
-  "_comment": "Villarreal 2025-26",
-"name": "VILLARREAL",
+"name": "VILLARREAL CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BAND",
-		"shirt1": "#5daea6",
-		"shirt2": "#4b131e",
-		"shirt3": "#3068c0",
-		"shorts": "#a8358c",
-		"socks": "#d11f6f"
+		"style": "VERTICAL_STRIP",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#df38ad",
-		"shirt2": "#155a9f",
-		"shirt3": "#739c56",
-		"shorts": "#834fca",
-		"socks": "#73aabf"
+		"style": "CHECK",
+		"shirt1": "#afb2b9",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#993333",
+		"socks": "#993333"
 	},
 	{
-		"style": "LINE",
-		"shirt1": "#58de7f",
-		"shirt2": "#d40db9",
-		"shirt3": "#013f2a",
-		"shorts": "#3e1c50",
-		"socks": "#1c8480"
+		"style": "PLAIN",
+		"shirt1": "#5d2399",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#5d2399",
+		"socks": "#5d2399"
 	}
 ],
 "players": [
@@ -80,8 +79,8 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 23,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 5,
@@ -156,7 +155,7 @@
 		"role": "DEFENDER",
 		"number": 8,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 5,
@@ -225,9 +224,9 @@
 		"nationality": "CAN",
 		"role": "MIDFIELDER",
 		"number": 17,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SMOOTH_L",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
+		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 3,
 			"shooting": 4,
@@ -333,8 +332,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 18,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 2,
@@ -402,7 +401,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_G",
 		"value": 13
@@ -433,7 +432,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 22,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -487,7 +486,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 26,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
@@ -531,7 +530,7 @@
 		"number": 6,
 		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
-		"hairStyle": "SMOOTH_L",
+		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 4,
 			"shooting": 2,
@@ -552,8 +551,8 @@
 		"role": "ATTACKER",
 		"number": 29,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SMOOTH_J",
+		"hairColor": "RED",
+		"hairStyle": "SMOOTH_L",
 		"skills": {
 			"passing": 1,
 			"shooting": 4,
@@ -577,9 +576,9 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
-		"hairStyle": "THINNING_B",
+		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 2,
 			"shooting": 2,
@@ -601,7 +600,7 @@
 		"number": 21,
 		"skinColor": "PINK",
 		"hairColor": "BROWN",
-		"hairStyle": "SMOOTH_N",
+		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 5,
 			"shooting": 5,

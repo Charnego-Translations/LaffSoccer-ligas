@@ -1,5 +1,4 @@
 {
-  "_comment": "Real Sociedad 2025-26",
 "name": "REAL SOCIEDAD",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#339e60",
-		"shirt2": "#987ad3",
-		"shirt3": "#dbd810",
-		"shorts": "#e24615",
-		"socks": "#d0a755"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#baab2c",
-		"shirt2": "#31f37a",
-		"shirt3": "#650361",
-		"shorts": "#466df0",
-		"socks": "#96c4bf"
+		"style": "ARMBAND",
+		"shirt1": "#949494",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#afb2b9",
+		"socks": "#949494"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#516d36",
-		"shirt2": "#49eeee",
-		"shirt3": "#74da6e",
-		"shorts": "#fa9cf4",
-		"socks": "#88f514"
+		"style": "PLAIN",
+		"shirt1": "#f5732c",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#f5732c",
+		"socks": "#f5732c"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_N",
 		"value": 11
@@ -83,7 +82,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 17,
-		"skinColor": "BLACK",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -131,7 +130,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 4,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -157,7 +156,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 23,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "WHITE",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
@@ -280,7 +279,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 14,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -317,7 +316,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 28,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -366,9 +365,9 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 31,
-		"skinColor": "MULATTO",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
-		"hairStyle": "PIGTAIL_B",
+		"hairStyle": "PIGTAIL_C",
 		"skills": {
 			"passing": 2,
 			"shooting": 1,
@@ -386,7 +385,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -442,7 +441,7 @@
 		"nationality": "RUS",
 		"role": "MIDFIELDER",
 		"number": 21,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -468,7 +467,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -494,8 +493,8 @@
 		"nationality": "CRO",
 		"role": "MIDFIELDER",
 		"number": 24,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
 			"passing": 3,
@@ -520,8 +519,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "BLACK",
-		"hairColor": "PLATINUM",
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 5,
@@ -593,7 +592,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_B",
 		"skills": {

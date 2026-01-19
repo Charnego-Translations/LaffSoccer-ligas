@@ -1,5 +1,4 @@
 {
-  "_comment": "Atlético de Madrid 2025-26",
 "name": "ATLÉTICO DE MADRID",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#b38b20",
-		"shirt2": "#da322e",
-		"shirt3": "#d70146",
-		"shorts": "#999e56",
-		"socks": "#d1f7e2"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#d36233",
-		"shirt2": "#0cea9e",
-		"shirt3": "#320347",
-		"shorts": "#0e6545",
-		"socks": "#0e1f6f"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#4f95bc",
-		"shirt2": "#6080b4",
-		"shirt3": "#da8e7b",
-		"shorts": "#a0f90b",
-		"socks": "#20f07e"
+		"style": "SIDE_LINES",
+		"shirt1": "#3033c1",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	}
 ],
 "players": [
@@ -82,7 +81,7 @@
 		"role": "LEFT_BACK",
 		"number": 17,
 		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SHORT_A",
 		"skills": {
 			"passing": 6,
@@ -99,7 +98,7 @@
 		]
 	},
 	{
-		"name": "ROBIN AIMÉ ROBERT LE NORMAND MAINFRAY",
+		"name": "ROBIN AIMÉ ROBERT LE NORMAND",
 		"shirtName": "LE NORMAND",
 		"nationality": "ESP",
 		"role": "DEFENDER",
@@ -234,7 +233,7 @@
 		"role": "MIDFIELDER",
 		"number": 23,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 5,
@@ -255,8 +254,8 @@
 		"nationality": "ARG",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "ALIEN",
-		"hairColor": "BROWN",
+		"skinColor": "PALE",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
 			"passing": 1,
@@ -280,7 +279,7 @@
 		"nationality": "NOR",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
@@ -308,7 +307,7 @@
 		"role": "GOALKEEPER",
 		"number": 1,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"value": 10
 	},
@@ -318,8 +317,8 @@
 		"nationality": "FRA",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
 			"passing": 2,
@@ -345,7 +344,7 @@
 		"role": "MIDFIELDER",
 		"number": 4,
 		"skinColor": "RED",
-		"hairColor": "BLOND",
+		"hairColor": "RED",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
 			"passing": 4,
@@ -391,7 +390,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -414,7 +413,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BROWN",
 		"hairStyle": "BALD_A",
 		"value": 26
@@ -522,7 +521,7 @@
 		"nationality": "URU",
 		"role": "DEFENDER",
 		"number": 2,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -549,7 +548,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "BLACK",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -572,7 +571,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 21,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -620,7 +619,7 @@
 		"role": "MIDFIELDER",
 		"number": 26,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 4,

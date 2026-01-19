@@ -1,6 +1,5 @@
 {
-  "_comment": "Oviedo 2025-26",
-"name": "OVIEDO",
+"name": "REAL OVIEDO",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SPICE",
-		"shirt1": "#e94111",
-		"shirt2": "#5a3d3d",
-		"shirt3": "#2bb935",
-		"shorts": "#e73d34",
-		"socks": "#e3551d"
+		"style": "SIDE_LINES",
+		"shirt1": "#3033c1",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#dfe8eb",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#91c1db",
-		"shirt2": "#25a9af",
-		"shirt3": "#c6ac20",
-		"shorts": "#f1859b",
-		"socks": "#1eef3e"
+		"style": "VERTICAL",
+		"shirt1": "#2e247a",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#2e247a"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#329667",
-		"shirt2": "#99aadc",
-		"shirt3": "#d8f2eb",
-		"shorts": "#72de86",
-		"socks": "#3d3e0a"
+		"style": "VERTICAL",
+		"shirt1": "#7be2e3",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -81,7 +80,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
@@ -106,7 +105,7 @@
 		"role": "DEFENDER",
 		"number": 4,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
 			"passing": 3,
@@ -128,7 +127,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 16,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -155,7 +154,7 @@
 		"role": "MIDFIELDER",
 		"number": 20,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SHORT_A",
 		"skills": {
 			"passing": 1,
@@ -177,8 +176,8 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 11,
-		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
+		"skinColor": "MULATTO",
+		"hairColor": "RED",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
 			"passing": 4,
@@ -326,7 +325,7 @@
 		"role": "MIDFIELDER",
 		"number": 21,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SHORT_A",
 		"skills": {
 			"passing": 3,
@@ -352,7 +351,7 @@
 		"role": "ATTACKER",
 		"number": 18,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 3,
@@ -409,7 +408,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -429,7 +428,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -483,7 +482,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -505,7 +504,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 25,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -528,7 +527,7 @@
 		"nationality": "CIV",
 		"role": "DEFENDER",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -551,7 +550,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -573,8 +572,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 4,
@@ -596,7 +595,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 27,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_E",
 		"skills": {

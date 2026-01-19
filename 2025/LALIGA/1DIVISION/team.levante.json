@@ -1,6 +1,5 @@
 {
-  "_comment": "Levante 2025-26",
-"name": "LEVANTE",
+"name": "LEVANTE UD",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "LARGE_STRIPS",
-		"shirt1": "#b525ed",
-		"shirt2": "#f7798a",
-		"shirt3": "#e0eef5",
-		"shorts": "#ac169d",
-		"socks": "#3ed816"
+		"shirt1": "#993333",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "SLEEVES",
-		"shirt1": "#e77dd2",
-		"shirt2": "#236025",
-		"shirt3": "#52a9fd",
-		"shorts": "#0cfc64",
-		"socks": "#b57f1c"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#da24ce",
-		"shirt2": "#ba39bc",
-		"shirt3": "#7e429e",
-		"shorts": "#39385f",
-		"socks": "#8620d4"
+		"style": "PLAIN",
+		"shirt1": "#81ff11",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#81ff11",
+		"socks": "#81ff11"
 	}
 ],
 "players": [
@@ -76,7 +75,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 23,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -144,7 +143,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "PALE",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -195,7 +194,7 @@
 		"nationality": "HND",
 		"role": "MIDFIELDER",
 		"number": 16,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -351,7 +350,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -398,7 +397,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 32,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_F",
 		"value": 25
@@ -543,7 +542,7 @@
 		"nationality": "URU",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_K",
 		"skills": {

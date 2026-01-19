@@ -1,6 +1,5 @@
 {
-  "_comment": "Osasuna 2025-26",
-"name": "OSASUNA",
+"name": "CA OSASUNA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_V",
-		"shirt1": "#65456c",
-		"shirt2": "#5aea65",
-		"shirt3": "#f14b3b",
-		"shorts": "#53aabf",
-		"socks": "#015cc3"
+		"style": "ARMBAND",
+		"shirt1": "#f61c1c",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#e7da63",
-		"shirt2": "#700d8c",
-		"shirt3": "#5163df",
-		"shorts": "#407b09",
-		"socks": "#4cd4aa"
+		"style": "PLAIN",
+		"shirt1": "#30c52c",
+		"shirt2": "#993333",
+		"shirt3": "#993333",
+		"shorts": "#30c52c",
+		"socks": "#30c52c"
 	},
 	{
-		"style": "VERTICAL_STRIP",
-		"shirt1": "#2dc64a",
-		"shirt2": "#eefe06",
-		"shirt3": "#f3956b",
-		"shorts": "#a623c3",
-		"socks": "#28f1da"
+		"style": "SIDE_LINES",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#a31212",
+		"shirt3": "#a31212",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_M",
 		"value": 19
@@ -128,7 +127,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 22,
-		"skinColor": "ALIEN",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -154,7 +153,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 7,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_C",
 		"skills": {
@@ -232,7 +231,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 21,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -252,7 +251,7 @@
 		"nationality": "CRO",
 		"role": "DEFENDER",
 		"number": 17,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_E",
 		"skills": {
@@ -328,7 +327,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -433,9 +432,9 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 29,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
-		"hairStyle": "PIGTAIL_A",
+		"hairStyle": "PIGTAIL_B",
 		"skills": {
 			"passing": 3,
 			"shooting": 2,
@@ -459,9 +458,9 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 18,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
-		"hairStyle": "SMOOTH_I",
+		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 2,
 			"shooting": 5,
@@ -479,9 +478,9 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
-		"hairStyle": "SPECIAL_D",
+		"hairStyle": "SPECIAL_E",
 		"skills": {
 			"passing": 4,
 			"shooting": 5,
@@ -500,8 +499,8 @@
 		"role": "RIGHT_BACK",
 		"number": 41,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairColor": "GRAY",
+		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 4,
@@ -519,9 +518,9 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SPECIAL_F",
+		"skinColor": "RED",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 3,
 			"shooting": 2,
@@ -541,7 +540,7 @@
 		"number": 20,
 		"skinColor": "RED",
 		"hairColor": "RED",
-		"hairStyle": "SMOOTH_M",
+		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 5,
 			"shooting": 2,

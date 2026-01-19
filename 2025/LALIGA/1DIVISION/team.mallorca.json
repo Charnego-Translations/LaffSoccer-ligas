@@ -1,6 +1,5 @@
 {
-  "_comment": "Mallorca 2025-26",
-"name": "MALLORCA",
+"name": "RCD MALLORCA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SLEEVES",
-		"shirt1": "#d5c4c5",
-		"shirt2": "#73e77d",
-		"shirt3": "#fc6c5a",
-		"shorts": "#edc8e7",
-		"socks": "#950b18"
+		"style": "VERTICAL_STRIP",
+		"shirt1": "#f61c1c",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#8b921c",
-		"shirt2": "#a8ea50",
-		"shirt3": "#001fc9",
-		"shorts": "#d3b9fa",
-		"socks": "#8aa72a"
+		"style": "VERTICAL_STRIP",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "STRIP",
-		"shirt1": "#c862d3",
-		"shirt2": "#039ff7",
-		"shirt3": "#1e4a04",
-		"shorts": "#0f6908",
-		"socks": "#6360cc"
+		"style": "BIG_V",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "ARG",
 		"role": "RIGHT_BACK",
 		"number": 23,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -77,7 +76,7 @@
 		"role": "LEFT_BACK",
 		"number": 22,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_G",
 		"skills": {
 			"passing": 2,
@@ -233,7 +232,7 @@
 		"role": "DEFENDER",
 		"number": 18,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 3,
@@ -275,7 +274,7 @@
 		"role": "GOALKEEPER",
 		"number": 13,
 		"skinColor": "MULATTO",
-		"hairColor": "BROWN",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_A",
 		"value": 18
 	},
@@ -309,7 +308,7 @@
 		"role": "MIDFIELDER",
 		"number": 6,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
 			"passing": 3,
@@ -335,7 +334,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -358,7 +357,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -417,7 +416,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -444,7 +443,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 30,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
@@ -491,7 +490,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
@@ -516,7 +515,7 @@
 		"role": "LEFT_BACK",
 		"number": 3,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 2,
@@ -592,7 +591,7 @@
 		"role": "MIDFIELDER",
 		"number": 14,
 		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 3,

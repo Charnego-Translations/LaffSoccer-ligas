@@ -1,6 +1,5 @@
 {
-  "_comment": "Real Madrid 2025-26",
-"name": "REAL MADRID",
+"name": "REAL MADRID CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#b507d5",
-		"shirt2": "#520d26",
-		"shirt3": "#48b592",
-		"shorts": "#2dd874",
-		"socks": "#fe0fc3"
-	},
-	{
-		"style": "CROSS",
-		"shirt1": "#a010a7",
-		"shirt2": "#d56860",
-		"shirt3": "#f8414f",
-		"shorts": "#750a8f",
-		"socks": "#cbed8b"
+		"style": "SIDE_LINES",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
 		"style": "SIDE_LINES",
-		"shirt1": "#fdb3c9",
-		"shirt2": "#3ac43e",
-		"shirt3": "#bc5502",
-		"shorts": "#b7f157",
-		"socks": "#51ebf5"
+		"shirt1": "#2e247a",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
+	},
+	{
+		"style": "PLAIN",
+		"shirt1": "#47bfeb",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#47bfeb",
+		"socks": "#7be2e3"
 	}
 ],
 "players": [
@@ -102,7 +101,7 @@
 		"role": "DEFENDER",
 		"number": 3,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 3,
@@ -126,8 +125,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 17,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "RED",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 2,
@@ -144,7 +143,7 @@
 		]
 	},
 	{
-		"name": "FEDERICO SANTIAGO VALVERDE DIPETTA",
+		"name": "FEDERICO SANTIAGO VALVERDE",
 		"shirtName": "VALVERDE",
 		"nationality": "URU",
 		"role": "MIDFIELDER",
@@ -245,7 +244,7 @@
 		"nationality": "FRA",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -262,14 +261,14 @@
 		]
 	},
 	{
-		"name": "VINÍCIUS JOSÉ PAIXÃO DE OLIVEIRA JÚNIOR",
+		"name": "VINÍCIUS JOSÉ PAIXÃO DE OLIVEIRA",
 		"shirtName": "VINÍCIUS",
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 7,
 		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "CURLY_E",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 3,
 			"shooting": 5,
@@ -290,7 +289,7 @@
 		"nationality": "UKR",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SHORT_A",
 		"value": 33
@@ -301,8 +300,8 @@
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "ARAB",
+		"hairColor": "BROWN",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 1,
@@ -325,7 +324,7 @@
 		"role": "ATTACKER",
 		"number": 30,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
 			"passing": 3,
@@ -351,7 +350,7 @@
 		"number": 6,
 		"skinColor": "PALE",
 		"hairColor": "RED",
-		"hairStyle": "BALD_B",
+		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 3,
 			"shooting": 3,
@@ -369,8 +368,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 16,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 1,
@@ -391,7 +390,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 43,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_I",
 		"value": 16
@@ -402,7 +401,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -428,7 +427,7 @@
 		"role": "ATTACKER",
 		"number": 21,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLOND",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 4,
@@ -550,7 +549,7 @@
 		"nationality": "AUT",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -576,7 +575,7 @@
 		"role": "ATTACKER",
 		"number": 9,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
 			"passing": 4,
@@ -600,7 +599,7 @@
 		"nationality": "FRA",
 		"role": "LEFT_BACK",
 		"number": 23,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "CURLY_D",
 		"skills": {

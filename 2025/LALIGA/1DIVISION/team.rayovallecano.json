@@ -1,5 +1,4 @@
 {
-  "_comment": "Rayo Vallecano 2025-26",
 "name": "RAYO VALLECANO",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#143c53",
-		"shirt2": "#a62342",
-		"shirt3": "#b98fed",
-		"shorts": "#2f721f",
-		"socks": "#e41323"
+		"style": "DIAGONAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "LINE",
-		"shirt1": "#6f5249",
-		"shirt2": "#e6b575",
-		"shirt3": "#aa3c35",
-		"shorts": "#6efd1b",
-		"socks": "#3a5608"
+		"style": "DIAGONAL",
+		"shirt1": "#f61c1c",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	},
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#49c97d",
-		"shirt2": "#39610a",
-		"shirt3": "#a2e1be",
-		"shorts": "#f26d79",
-		"socks": "#c387de"
+		"style": "DIAGONAL",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "ROM",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -103,7 +102,7 @@
 		"nationality": "FRA",
 		"role": "DEFENDER",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -237,7 +236,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -347,7 +346,7 @@
 		"nationality": "BRA",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -371,7 +370,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -391,7 +390,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 40,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_M",
 		"value": 10
@@ -481,7 +480,7 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -504,7 +503,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 33,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -524,7 +523,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -547,7 +546,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 28,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_C",
 		"skills": {
@@ -570,7 +569,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SMOOTH_K",
 		"skills": {

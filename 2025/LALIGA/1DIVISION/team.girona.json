@@ -1,6 +1,5 @@
 {
-  "_comment": "Girona 2025-26",
-"name": "GIRONA",
+"name": "GIRONA FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#1581d9",
-		"shirt2": "#7eb546",
-		"shirt3": "#e23dfd",
-		"shorts": "#bcbf0b",
-		"socks": "#05e8ea"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	},
 	{
-		"style": "SIDE_LINES",
-		"shirt1": "#baa8dc",
-		"shirt2": "#3f4b7b",
-		"shirt3": "#b2d75e",
-		"shorts": "#9dacca",
-		"socks": "#2c2889"
+		"style": "PLAIN",
+		"shirt1": "#ffd200",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#ffd200",
+		"socks": "#ffd200"
 	},
 	{
-		"style": "SIDE_LINES",
-		"shirt1": "#d9c7ef",
-		"shirt2": "#dac5fe",
-		"shirt3": "#206e55",
-		"shorts": "#1c3ee2",
-		"socks": "#b2b755"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 4,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "THINNING_B",
 		"skills": {
@@ -172,12 +171,12 @@
 		]
 	},
 	{
-		"name": "AXEL LAURENT ANGEL LAMBERT WITSEL",
+		"name": "AXEL LAURENT ANGEL LAMBERT",
 		"shirtName": "WITSEL",
 		"nationality": "BEL",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_E",
 		"skills": {
@@ -289,7 +288,7 @@
 		]
 	},
 	{
-		"name": "VLADYSLAV ANDRIYOVYCH KRAPYVTSOV",
+		"name": "VLADYSLAV ANDRIYOVYCH",
 		"shirtName": "KRAPYVTSOV",
 		"nationality": "UKR",
 		"role": "GOALKEEPER",

@@ -1,5 +1,4 @@
 {
-  "_comment": "Athletic Club 2025-26",
 "name": "ATHLETIC CLUB",
 "type": "CLUB",
 "country": "ESP",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "VERTICAL",
-		"shirt1": "#ca2359",
-		"shirt2": "#49cf81",
-		"shirt3": "#829ecd",
-		"shorts": "#09c6b2",
-		"socks": "#7bb4fc"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "VERTICAL_STRIP",
-		"shirt1": "#d61c76",
-		"shirt2": "#b6b28f",
-		"shirt3": "#484994",
-		"shorts": "#b5520c",
-		"socks": "#9941d2"
+		"style": "ARMBAND",
+		"shirt1": "#2e247a",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	},
 	{
-		"style": "CHECK",
-		"shirt1": "#dbf392",
-		"shirt2": "#d461d6",
-		"shirt3": "#223d04",
-		"shorts": "#2255e6",
-		"socks": "#e8b372"
+		"style": "PLAIN",
+		"shirt1": "#47bfeb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#47bfeb",
+		"socks": "#7be2e3"
 	}
 ],
 "players": [
@@ -123,7 +122,7 @@
 		]
 	},
 	{
-		"name": "AYMERIC JEAN LOUIS GERARD ALPHONSE LAPORTE FEVRE",
+		"name": "AYMERIC JEAN LOUIS GERARD",
 		"shirtName": "LAPORTE",
 		"nationality": "ESP",
 		"role": "DEFENDER",
@@ -173,7 +172,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 16,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "WHITE",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -271,7 +270,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -330,7 +329,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -356,7 +355,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 23,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
@@ -443,7 +442,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -566,9 +565,9 @@
 		"nationality": "MAR",
 		"role": "DEFENDER",
 		"number": 21,
-		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
-		"hairStyle": "THINNING_C",
+		"skinColor": "PINK",
+		"hairColor": "BROWN",
+		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 4,
 			"shooting": 2,
@@ -616,8 +615,8 @@
 		"role": "MIDFIELDER",
 		"number": 44,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,
 			"shooting": 3,

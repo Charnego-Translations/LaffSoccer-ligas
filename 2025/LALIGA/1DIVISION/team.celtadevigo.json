@@ -1,5 +1,4 @@
 {
-  "_comment": "Celta de Vigo 2025-26",
 "name": "CELTA DE VIGO",
 "type": "CLUB",
 "country": "ESP",
@@ -14,20 +13,20 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BAND",
-		"shirt1": "#8dd54d",
-		"shirt2": "#116874",
-		"shirt3": "#e7324d",
-		"shorts": "#1254cc",
-		"socks": "#d0272a"
+		"style": "SPICE",
+		"shirt1": "#47bfeb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "VERTICAL_STRIP",
-		"shirt1": "#5a93b4",
-		"shirt2": "#acb589",
-		"shirt3": "#fe2138",
-		"shorts": "#5ea075",
-		"socks": "#b9f1fa"
+		"style": "DIAGONAL",
+		"shirt1": "#2e247a",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	},
 	{
 		"style": "VERTICAL_HALF",
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -81,7 +80,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -107,7 +106,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 20,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -158,7 +157,7 @@
 		"nationality": "SWE",
 		"role": "DEFENDER",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -307,7 +306,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_D",
 		"value": 24
@@ -419,7 +418,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 25,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "BALD_B",
 		"value": 28
@@ -430,7 +429,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 12,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -632,7 +631,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_H",
 		"skills": {

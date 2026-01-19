@@ -1,6 +1,5 @@
 {
-  "_comment": "Elche 2025-26",
-"name": "ELCHE",
+"name": "ELCHE FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SPICE",
-		"shirt1": "#c3e72c",
-		"shirt2": "#d84a28",
-		"shirt3": "#363638",
-		"shorts": "#831cd6",
-		"socks": "#4a1cc9"
+		"style": "STRIP",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#417039",
+		"shirt3": "#417039",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#93f048",
-		"shirt2": "#027f7b",
-		"shirt3": "#6ed21f",
-		"shorts": "#33b2d1",
-		"socks": "#1f5771"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#417039",
+		"shirt3": "#417039",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#95be88",
-		"shirt2": "#1beb1c",
-		"shirt3": "#26b71c",
-		"shorts": "#966849",
-		"socks": "#c78d0c"
+		"style": "PLAIN",
+		"shirt1": "#3033c1",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	}
 ],
 "players": [
@@ -47,7 +46,7 @@
 		"number": 13,
 		"skinColor": "ASIATIC",
 		"hairColor": "RED",
-		"hairStyle": "BALD_A",
+		"hairStyle": "CURLY_B",
 		"value": 19
 	},
 	{
@@ -82,8 +81,8 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 11,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_F",
 		"skills": {
 			"passing": 3,
@@ -122,7 +121,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -171,7 +170,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -197,7 +196,7 @@
 		"role": "MIDFIELDER",
 		"number": 8,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 3,
@@ -267,7 +266,7 @@
 		"nationality": "URU",
 		"role": "DEFENDER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -291,7 +290,7 @@
 		"nationality": "ARG",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"value": 20
@@ -302,8 +301,8 @@
 		"nationality": "POR",
 		"role": "ATTACKER",
 		"number": 9,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 2,
@@ -322,8 +321,8 @@
 		"nationality": "FRA",
 		"role": "DEFENDER",
 		"number": 21,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 3,
@@ -375,7 +374,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -476,7 +475,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 39,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -530,7 +529,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -578,7 +577,7 @@
 		"nationality": "MAR",
 		"role": "DEFENDER",
 		"number": 32,
-		"skinColor": "ALIEN",
+		"skinColor": "MULATTO",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_D",
 		"skills": {

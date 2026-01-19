@@ -1,6 +1,5 @@
 {
-  "_comment": "Barcelona 2025-26",
-"name": "BARCELONA",
+"name": "FC BARCELONA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#b18e18",
-		"shirt2": "#fc9809",
-		"shirt3": "#7c3005",
-		"shorts": "#496e44",
-		"socks": "#9c48d4"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#3033c1",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#7aaca6",
-		"shirt2": "#ce8fe1",
-		"shirt3": "#680433",
-		"shorts": "#380805",
-		"socks": "#bcbf3c"
+		"style": "PLAIN",
+		"shirt1": "#cac47d",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#ed0bdb",
-		"shirt2": "#a71436",
-		"shirt3": "#ce006b",
-		"shorts": "#ba56dd",
-		"socks": "#7d6390"
+		"style": "SIDE_LINES",
+		"shirt1": "#f59ee1",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#f59ee1",
+		"socks": "#f59ee1"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "FRA",
 		"role": "RIGHT_BACK",
 		"number": 23,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -129,7 +128,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 18,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
@@ -198,7 +197,7 @@
 		"role": "MIDFIELDER",
 		"number": 21,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 3,
@@ -245,7 +244,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -269,8 +268,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 14,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
 			"passing": 2,
@@ -305,7 +304,7 @@
 		"role": "ATTACKER",
 		"number": 11,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 3,
@@ -327,7 +326,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -347,9 +346,9 @@
 		"nationality": "POL",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
-		"hairStyle": "THINNING_B",
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 2,
 			"shooting": 3,
@@ -373,7 +372,7 @@
 		"role": "MIDFIELDER",
 		"number": 16,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 1,
@@ -456,7 +455,7 @@
 		"role": "DEFENDER",
 		"number": 15,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
 			"passing": 3,
@@ -480,7 +479,7 @@
 		"role": "ATTACKER",
 		"number": 28,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 1,
@@ -505,7 +504,7 @@
 		"role": "MIDFIELDER",
 		"number": 22,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 4,
@@ -531,7 +530,7 @@
 		"role": "MIDFIELDER",
 		"number": 27,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SHORT_A",
 		"skills": {
 			"passing": 4,
@@ -553,7 +552,7 @@
 		"role": "LEFT_BACK",
 		"number": 26,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_E",
 		"skills": {
 			"passing": 4,
@@ -577,7 +576,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 29,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -597,7 +596,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_C",
 		"skills": {

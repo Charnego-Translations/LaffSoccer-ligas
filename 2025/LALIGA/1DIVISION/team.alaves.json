@@ -1,5 +1,4 @@
 {
-  "_comment": "Alavés 2025-26",
 "name": "ALAVÉS",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#08fe75",
-		"shirt2": "#0b7c4b",
-		"shirt3": "#055466",
-		"shorts": "#a38bfe",
-		"socks": "#a5bd1c"
+		"style": "CHECK",
+		"shirt1": "#993333",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#e0b96d",
-		"shirt2": "#984cf5",
-		"shirt3": "#675480",
-		"shorts": "#4ecb59",
-		"socks": "#17cbaf"
+		"style": "PLAIN",
+		"shirt1": "#cac47d",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#c682eb",
-		"shirt2": "#19ad42",
-		"shirt3": "#7dd017",
-		"shorts": "#f927c7",
-		"socks": "#fe37af"
+		"style": "BIG_V",
+		"shirt1": "#f59ee1",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#f59ee1",
+		"socks": "#f59ee1"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_M",
 		"value": 27
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 17,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -82,7 +81,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 24,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -198,7 +197,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -308,7 +307,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -355,7 +354,7 @@
 		]
 	},
 	{
-		"name": "CALEBE GONÇALVES FERREIRA DA SILVA",
+		"name": "CALEBE GONÇALVES FERREIRA",
 		"shirtName": "CALEBE",
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
@@ -533,7 +532,7 @@
 		]
 	},
 	{
-		"name": "CARLOS NAHUEL BENAVÍDEZ PROTESONI",
+		"name": "CARLOS NAHUEL BENAVÍDEZ",
 		"shirtName": "PROTESONI",
 		"nationality": "URU",
 		"role": "MIDFIELDER",
