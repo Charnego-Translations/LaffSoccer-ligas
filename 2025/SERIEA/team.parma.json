@@ -1,6 +1,5 @@
 {
-  "_comment": "Parma 2025-26",
-"name": "PARMA",
+"name": "PARMA CALCIO",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#3012df",
-		"shirt2": "#366cea",
-		"shirt3": "#f1fef5",
-		"shorts": "#27a0a7",
-		"socks": "#b8e15a"
+		"style": "CROSS",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "LINE",
-		"shirt1": "#5a93eb",
-		"shirt2": "#5ebfdc",
-		"shirt3": "#9e1b14",
-		"shorts": "#725a18",
-		"socks": "#b5856b"
+		"style": "HORIZONTAL",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	},
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#253221",
-		"shirt2": "#e07c68",
-		"shirt3": "#1078c7",
-		"shorts": "#fdb98a",
-		"socks": "#2024bd"
+		"style": "ARMBAND",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -80,7 +79,7 @@
 		"role": "LEFT_BACK",
 		"number": 14,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,
@@ -105,7 +104,7 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -127,8 +126,8 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 39,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
 			"passing": 1,
@@ -174,7 +173,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -246,7 +245,7 @@
 		"nationality": "ARG",
 		"role": "ATTACKER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -294,7 +293,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 40,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SHORT_B",
 		"value": 14
@@ -329,7 +328,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -401,7 +400,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 66,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_F",
 		"value": 22
@@ -436,7 +435,7 @@
 		"nationality": "SWE",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -462,8 +461,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
 			"passing": 6,
@@ -482,7 +481,7 @@
 		"nationality": "BIH",
 		"role": "DEFENDER",
 		"number": 30,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -597,7 +596,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_A",
 		"skills": {

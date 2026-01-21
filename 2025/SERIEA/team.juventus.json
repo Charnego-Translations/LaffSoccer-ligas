@@ -1,6 +1,5 @@
 {
-  "_comment": "Juventus 2025-26",
-"name": "JUVENTUS",
+"name": "JUVENTUS FC",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_V",
-		"shirt1": "#5480cb",
-		"shirt2": "#8d3b17",
-		"shirt3": "#af4a20",
-		"shorts": "#6d26ef",
-		"socks": "#933d31"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#4315b5",
-		"shirt2": "#f603e9",
-		"shirt3": "#0320d3",
-		"shorts": "#aff181",
-		"socks": "#cfac52"
+		"style": "ARMBAND",
+		"shirt1": "#47bfeb",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#47bfeb",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#5fb419",
-		"shirt2": "#530fee",
-		"shirt3": "#74cc21",
-		"shorts": "#d91859",
-		"socks": "#b0edc5"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 16,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_P",
 		"value": 36
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 15,
 		"skinColor": "BLACK",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 6,
@@ -235,7 +234,7 @@
 		"number": 8,
 		"skinColor": "PINK",
 		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 4,
@@ -283,7 +282,7 @@
 		"nationality": "POR",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -309,7 +308,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_G",
 		"value": 24
@@ -477,7 +476,7 @@
 		"role": "MIDFIELDER",
 		"number": 17,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 2,
@@ -578,7 +577,7 @@
 		"nationality": "COL",
 		"role": "LEFT_BACK",
 		"number": 32,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "RED",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -605,9 +604,9 @@
 		"nationality": "BRA",
 		"role": "DEFENDER",
 		"number": 44,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "GRAY",
-		"hairStyle": "SHAVED",
+		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 3,
 			"shooting": 2,

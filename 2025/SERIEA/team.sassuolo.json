@@ -1,6 +1,5 @@
 {
-  "_comment": "Sassuolo 2025-26",
-"name": "SASSUOLO",
+"name": "US SASSUOLO",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#65386b",
-		"shirt2": "#3db093",
-		"shirt3": "#efbfec",
-		"shorts": "#47bcd4",
-		"socks": "#4deb10"
+		"style": "VERTICAL",
+		"shirt1": "#417039",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#815494",
-		"shirt2": "#b5f61a",
-		"shirt3": "#a1108b",
-		"shorts": "#59d81a",
-		"socks": "#d6bd21"
+		"style": "SPICE",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#30c52c",
+		"shirt3": "#30c52c",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#0dc607",
-		"shirt2": "#6344a7",
-		"shirt3": "#2da48e",
-		"shorts": "#cf2320",
-		"socks": "#f2294d"
+		"style": "SPICE",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "BIH",
 		"role": "DEFENDER",
 		"number": 80,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -79,7 +78,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "MULATTO",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -178,8 +177,8 @@
 		"role": "MIDFIELDER",
 		"number": 90,
 		"skinColor": "BLACK",
-		"hairColor": "RED",
-		"hairStyle": "SPECIAL_F",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 2,
@@ -274,7 +273,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -444,8 +443,8 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 35,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
 			"passing": 3,
@@ -466,7 +465,7 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 44,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -512,7 +511,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -535,7 +534,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 25,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -578,7 +577,7 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -600,8 +599,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 26,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
 			"passing": 3,

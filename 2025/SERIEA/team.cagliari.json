@@ -1,6 +1,5 @@
 {
-  "_comment": "Cagliari 2025-26",
-"name": "CAGLIARI",
+"name": "CAGLIARI CALCIO",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#dfd011",
-		"shirt2": "#388cef",
-		"shirt3": "#f21241",
-		"shorts": "#eeeae8",
-		"socks": "#4e1a00"
+		"style": "VERTICAL_HALF",
+		"shirt1": "#f61c1c",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#6ef71d",
-		"shirt2": "#883920",
-		"shirt3": "#1659ff",
-		"shorts": "#679a73",
-		"socks": "#3dc4a1"
+		"style": "PLAIN",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
 		"style": "VERTICAL",
-		"shirt1": "#7469aa",
-		"shirt2": "#7ae228",
-		"shirt3": "#269b2b",
-		"shorts": "#cdd7a5",
-		"socks": "#81648e"
+		"shirt1": "#47bfeb",
+		"shirt2": "#a31212",
+		"shirt3": "#a31212",
+		"shorts": "#47bfeb",
+		"socks": "#47bfeb"
 	}
 ],
 "players": [
@@ -46,8 +45,8 @@
 		"role": "GOALKEEPER",
 		"number": 1,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_H",
 		"value": 20
 	},
 	{
@@ -149,7 +148,7 @@
 		"nationality": "COL",
 		"role": "DEFENDER",
 		"number": 26,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -172,7 +171,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -243,7 +242,7 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 94,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -270,7 +269,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 29,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHORT_C",
 		"skills": {
@@ -399,8 +398,8 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 34,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"value": 16
 	},
@@ -460,7 +459,7 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 4,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -500,7 +499,7 @@
 		]
 	},
 	{
-		"name": "JOSÉ PEDRO DA SILVA FIGUEIREDO FREITAS",
+		"name": "JOSÉ PEDRO DA SILVA FIGUEIREDO",
 		"shirtName": "ZÉ PEDRO",
 		"nationality": "POR",
 		"role": "DEFENDER",

@@ -1,6 +1,5 @@
 {
-  "_comment": "Como 2025-26",
-"name": "COMO",
+"name": "COMO 1907",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CHECK",
-		"shirt1": "#a862f9",
-		"shirt2": "#7a2022",
-		"shirt3": "#44cf18",
-		"shorts": "#25f2f3",
-		"socks": "#ff0644"
+		"style": "SLEEVES",
+		"shirt1": "#47bfeb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "BAND",
-		"shirt1": "#9d0eaa",
-		"shirt2": "#d20770",
-		"shirt3": "#ff0668",
-		"shorts": "#2bb180",
-		"socks": "#e36f64"
+		"style": "SPICE",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#16baa0",
-		"shirt2": "#78f9e7",
-		"shirt3": "#cc5562",
-		"shorts": "#70dd83",
-		"socks": "#bc97c6"
+		"style": "SIDE_LINES",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -81,7 +80,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -105,7 +104,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
@@ -153,7 +152,7 @@
 		"role": "DEFENDER",
 		"number": 2,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 3,
@@ -178,7 +177,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -222,7 +221,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 33,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -269,7 +268,7 @@
 		"role": "DEFENDER",
 		"number": 11,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "BALD_B",
 		"skills": {
 			"passing": 6,
@@ -294,8 +293,8 @@
 		"nationality": "CRO",
 		"role": "GOALKEEPER",
 		"number": 44,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_E",
 		"value": 29
 	},
@@ -408,7 +407,7 @@
 		"role": "ATTACKER",
 		"number": 42,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 1,
@@ -430,7 +429,7 @@
 		"nationality": "AUT",
 		"role": "RIGHT_BACK",
 		"number": 27,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
@@ -480,7 +479,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 18,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
@@ -503,7 +502,7 @@
 		"nationality": "BEL",
 		"role": "RIGHT_BACK",
 		"number": 77,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -572,7 +571,7 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 22,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "BALD_B",
 		"skills": {

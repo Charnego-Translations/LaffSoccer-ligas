@@ -1,6 +1,5 @@
 {
-  "_comment": "Torino 2025-26",
-"name": "TORINO",
+"name": "TORINO FC",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "STRIP",
-		"shirt1": "#5067b1",
-		"shirt2": "#a0f08d",
-		"shirt3": "#8595e2",
-		"shorts": "#840e4c",
-		"socks": "#58cc8b"
+		"style": "PLAIN",
+		"shirt1": "#993333",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#99f946",
-		"shirt2": "#af4beb",
-		"shirt3": "#f3d6f4",
-		"shorts": "#1b0113",
-		"socks": "#7ea5a6"
+		"style": "SPICE",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#993333",
+		"shirt3": "#993333",
+		"shorts": "#993333",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#ccdc71",
-		"shirt2": "#d9dd5a",
-		"shirt3": "#6c8c4c",
-		"shorts": "#e41647",
-		"socks": "#058ba4"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#a31212",
+		"shirt3": "#a31212",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -57,8 +56,8 @@
 		"role": "RIGHT_BACK",
 		"number": 16,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
-		"hairStyle": "BALD_B",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 4,
 			"shooting": 3,
@@ -81,7 +80,7 @@
 		"number": 20,
 		"skinColor": "PALE",
 		"hairColor": "BLOND",
-		"hairStyle": "SMOOTH_B",
+		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 1,
 			"shooting": 4,
@@ -101,7 +100,7 @@
 		"number": 13,
 		"skinColor": "ARAB",
 		"hairColor": "BLOND",
-		"hairStyle": "BALD_A",
+		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 5,
 			"shooting": 4,
@@ -173,9 +172,9 @@
 		"nationality": "CRO",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
-		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_F",
+		"skinColor": "PINK",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 2,
 			"shooting": 1,
@@ -302,7 +301,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 61,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -348,7 +347,7 @@
 		"nationality": "LTU",
 		"role": "MIDFIELDER",
 		"number": 66,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -434,8 +433,8 @@
 		"nationality": "MAR",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 2,
@@ -457,7 +456,7 @@
 		"nationality": "SRB",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -502,8 +501,8 @@
 		"role": "LEFT_BACK",
 		"number": 25,
 		"skinColor": "PINK",
-		"hairColor": "GRAY",
-		"hairStyle": "SPECIAL_G",
+		"hairColor": "PLATINUM",
+		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 3,
 			"shooting": 3,
@@ -591,7 +590,7 @@
 		"role": "RIGHT_BACK",
 		"number": 21,
 		"skinColor": "BLACK",
-		"hairColor": "BLOND",
+		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
 			"passing": 5,

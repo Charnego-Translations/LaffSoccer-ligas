@@ -1,6 +1,5 @@
 {
-  "_comment": "Pisa 2025-26",
-"name": "PISA",
+"name": "PISA SC",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "VERTICAL",
-		"shirt1": "#0832bd",
-		"shirt2": "#16fffc",
-		"shirt3": "#020830",
-		"shorts": "#ff9546",
-		"socks": "#9b34dd"
+		"shirt1": "#3033c1",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#9ec3a8",
-		"shirt2": "#642bb3",
-		"shirt3": "#1cbc36",
-		"shorts": "#e24376",
-		"socks": "#52d7bc"
+		"style": "SIDE_LINES",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	},
 	{
-		"style": "STRIP",
-		"shirt1": "#016cdc",
-		"shirt2": "#a655f9",
-		"shirt3": "#ee3aa4",
-		"shorts": "#ab84aa",
-		"socks": "#91e0f2"
+		"style": "SIDE_LINES",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "CRO",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_H",
 		"value": 27
@@ -56,7 +55,7 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "THINNING_B",
 		"skills": {
@@ -78,7 +77,7 @@
 		"nationality": "ITA",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -179,7 +178,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
@@ -205,8 +204,8 @@
 		"nationality": "ROM",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "RED",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 3,
@@ -230,7 +229,7 @@
 		"role": "ATTACKER",
 		"number": 32,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 2,
@@ -256,7 +255,7 @@
 		"role": "ATTACKER",
 		"number": 9,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 2,
@@ -338,8 +337,8 @@
 		"role": "DEFENDER",
 		"number": 33,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "THINNING_C",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 3,
@@ -379,9 +378,9 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 36,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
-		"hairStyle": "SPECIAL_E",
+		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 3,
 			"shooting": 3,
@@ -504,7 +503,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 39,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -528,7 +527,7 @@
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
 		"number": 99,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -575,8 +574,8 @@
 		"nationality": "CZE",
 		"role": "ATTACKER",
 		"number": 16,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 3,

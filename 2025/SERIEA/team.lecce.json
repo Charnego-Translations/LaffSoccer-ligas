@@ -1,6 +1,5 @@
 {
-  "_comment": "Lecce 2025-26",
-"name": "LECCE",
+"name": "US LECCE",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#99bbf1",
-		"shirt2": "#e68674",
-		"shirt3": "#f6365c",
-		"shorts": "#0a5aaa",
-		"socks": "#6b96bd"
+		"style": "VERTICAL",
+		"shirt1": "#f61c1c",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#435c5b",
-		"shirt2": "#ba3433",
-		"shirt3": "#05db7b",
-		"shorts": "#09c2fa",
-		"socks": "#a93349"
+		"style": "DOUBLE_STRIPE",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#b424a8",
-		"shirt2": "#1bf572",
-		"shirt3": "#8ad752",
-		"shorts": "#5c26cb",
-		"socks": "#ed0dfe"
+		"style": "SIDE_LINES",
+		"shirt1": "#f61c1c",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	}
 ],
 "players": [
@@ -79,7 +78,7 @@
 		"nationality": "ITA",
 		"role": "LEFT_BACK",
 		"number": 25,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -191,7 +190,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 50,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -216,7 +215,7 @@
 		"role": "MIDFIELDER",
 		"number": 10,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
 			"passing": 4,
@@ -265,7 +264,7 @@
 		"role": "ATTACKER",
 		"number": 19,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 3,
@@ -299,7 +298,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 22,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -347,7 +346,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 23,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -374,7 +373,7 @@
 		"role": "MIDFIELDER",
 		"number": 77,
 		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 2,
@@ -396,9 +395,9 @@
 		"nationality": "GER",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SPECIAL_H",
 		"value": 34
 	},
 	{
@@ -452,7 +451,7 @@
 		"nationality": "IRL",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -501,7 +500,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_E",
 		"skills": {
@@ -521,7 +520,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -544,7 +543,7 @@
 		"nationality": "GER",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
@@ -572,7 +571,7 @@
 		"number": 13,
 		"skinColor": "PALE",
 		"hairColor": "RED",
-		"hairStyle": "SHAVED",
+		"hairStyle": "SHORT_A",
 		"skills": {
 			"passing": 3,
 			"shooting": 4,

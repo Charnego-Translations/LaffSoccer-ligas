@@ -1,6 +1,5 @@
 {
-  "_comment": "Atalanta 2025-26",
-"name": "ATALANTA",
+"name": "ATALANTA BC",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#6d2294",
-		"shirt2": "#a2900d",
-		"shirt3": "#e28526",
-		"shorts": "#5ffd64",
-		"socks": "#bb1c1d"
+		"style": "VERTICAL",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#f28046",
-		"shirt2": "#4e90bf",
-		"shirt3": "#a85a8b",
-		"shorts": "#c2626c",
-		"socks": "#2509ad"
+		"style": "PLAIN",
+		"shirt1": "#afb2b9",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#afb2b9",
+		"socks": "#949494"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#1be886",
-		"shirt2": "#407900",
-		"shirt3": "#38d3bf",
-		"shorts": "#1a9ce8",
-		"socks": "#c075f3"
+		"style": "DIAGONAL",
+		"shirt1": "#f5732c",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#f5732c",
+		"socks": "#f5732c"
 	}
 ],
 "players": [
@@ -46,7 +45,7 @@
 		"role": "GOALKEEPER",
 		"number": 29,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_A",
 		"value": 14
 	},
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 77,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 3,
@@ -83,7 +82,7 @@
 		"nationality": "POL",
 		"role": "LEFT_BACK",
 		"number": 59,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
@@ -111,7 +110,7 @@
 		"role": "DEFENDER",
 		"number": 19,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 5,
@@ -157,7 +156,7 @@
 		"nationality": "ITA",
 		"role": "RIGHT_BACK",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
@@ -228,7 +227,7 @@
 		"nationality": "CRO",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -271,14 +270,14 @@
 		]
 	},
 	{
-		"name": "ADEMOLA OLAJIDE ALADE AYLOLA LOOKMAN",
+		"name": "ADEMOLA OLAJIDE ALADE AYLOLA",
 		"shirtName": "LOOKMAN",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "PALE",
-		"hairColor": "BLOND",
-		"hairStyle": "PIGTAIL_A",
+		"skinColor": "BLACK",
+		"hairColor": "BROWN",
+		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 0,
 			"shooting": 3,
@@ -301,7 +300,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_H",
 		"value": 36
@@ -335,7 +334,7 @@
 		"role": "MIDFIELDER",
 		"number": 10,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
 			"passing": 1,
@@ -361,7 +360,7 @@
 		"role": "DEFENDER",
 		"number": 9,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 3,
@@ -436,7 +435,7 @@
 		"bestSkills": []
 	},
 	{
-		"name": "KOUAKOU ODILON DORGELESS KOSSOUNOU",
+		"name": "KOUAKOU ODILON DORGELESS",
 		"shirtName": "KOSSOUNOU",
 		"nationality": "CIV",
 		"role": "DEFENDER",
@@ -466,7 +465,7 @@
 		"nationality": "ITA",
 		"role": "LEFT_BACK",
 		"number": 47,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
@@ -492,7 +491,7 @@
 		"role": "DEFENDER",
 		"number": 42,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 3,
@@ -533,7 +532,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -557,7 +556,7 @@
 		"role": "MIDFIELDER",
 		"number": 44,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 3,
@@ -598,7 +597,7 @@
 		"nationality": "SRB",
 		"role": "DEFENDER",
 		"number": 40,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_A",
 		"skills": {

@@ -1,6 +1,5 @@
 {
-  "_comment": "Lazio 2025-26",
-"name": "LAZIO",
+"name": "SS LAZIO",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#1fd672",
-		"shirt2": "#d45603",
-		"shirt3": "#f38f1f",
-		"shorts": "#9091ac",
-		"socks": "#f44c99"
-	},
-	{
-		"style": "SLEEVES",
-		"shirt1": "#f25576",
-		"shirt2": "#341c10",
-		"shirt3": "#70f7e2",
-		"shorts": "#719258",
-		"socks": "#975505"
+		"style": "PLAIN",
+		"shirt1": "#47bfeb",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
 		"style": "PLAIN",
-		"shirt1": "#46dffd",
-		"shirt2": "#29bef4",
-		"shirt3": "#35cbb3",
-		"shorts": "#2fcadc",
-		"socks": "#5042a9"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#5083b8",
+		"shirt3": "#5083b8",
+		"shorts": "#5083b8",
+		"socks": "#5083b8"
+	},
+	{
+		"style": "PLAIN",
+		"shirt1": "#2e247a",
+		"shirt2": "#47bfeb",
+		"shirt3": "#47bfeb",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	}
 ],
 "players": [
@@ -45,9 +44,9 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 94,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
-		"hairStyle": "BALD_B",
+		"hairStyle": "CURLY_B",
 		"value": 19
 	},
 	{
@@ -83,7 +82,7 @@
 		"nationality": "ITA",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -128,8 +127,8 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 13,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
 			"passing": 4,
@@ -155,7 +154,7 @@
 		"role": "MIDFIELDER",
 		"number": 32,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 3,
@@ -226,8 +225,8 @@
 		"role": "ATTACKER",
 		"number": 10,
 		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
-		"hairStyle": "BALD_B",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 2,
 			"shooting": 2,
@@ -295,8 +294,8 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 35,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_H",
 		"value": 21
 	},
@@ -307,7 +306,7 @@
 		"role": "MIDFIELDER",
 		"number": 18,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 3,
@@ -375,12 +374,12 @@
 		]
 	},
 	{
-		"name": "VALENTÍN MARIANO JOSÉ CASTELLANOS GIMÉNEZ",
+		"name": "VALENTÍN MARIANO JOSÉ",
 		"shirtName": "CASTELLANOS",
 		"nationality": "ARG",
 		"role": "DEFENDER",
 		"number": 11,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -416,7 +415,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_C",
 		"skills": {
@@ -442,7 +441,7 @@
 		"nationality": "POR",
 		"role": "LEFT_BACK",
 		"number": 17,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -465,7 +464,7 @@
 		"role": "MIDFIELDER",
 		"number": 5,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
 			"passing": 4,
@@ -488,7 +487,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 25,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -559,7 +558,7 @@
 		"role": "MIDFIELDER",
 		"number": 6,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
 			"passing": 3,
@@ -605,7 +604,7 @@
 		"role": "DEFENDER",
 		"number": 4,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 4,

@@ -1,6 +1,5 @@
 {
-  "_comment": "Napoli 2025-26",
-"name": "NAPOLI",
+"name": "SSC NAPOLI",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CROSS",
-		"shirt1": "#752b2c",
-		"shirt2": "#8da4ec",
-		"shirt3": "#3cae3c",
-		"shorts": "#b4dc7b",
-		"socks": "#09759a"
+		"style": "PLAIN",
+		"shirt1": "#0b7dd5",
+		"shirt2": "#47bfeb",
+		"shirt3": "#47bfeb",
+		"shorts": "#dfe8eb",
+		"socks": "#0b7dd5"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#ae93a7",
-		"shirt2": "#535f00",
-		"shirt3": "#38b74a",
-		"shorts": "#6067b1",
-		"socks": "#543dc0"
+		"style": "PLAIN",
+		"shirt1": "#afb2b9",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#afb2b9",
+		"socks": "#afb2b9"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#a2fee3",
-		"shirt2": "#dc3639",
-		"shirt3": "#151bbd",
-		"shorts": "#3f26fe",
-		"socks": "#bec1bd"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -80,8 +79,8 @@
 		"nationality": "ITA",
 		"role": "LEFT_BACK",
 		"number": 37,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 3,
@@ -107,7 +106,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -181,7 +180,7 @@
 		"nationality": "SVK",
 		"role": "MIDFIELDER",
 		"number": 68,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -206,7 +205,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 99,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -361,7 +360,7 @@
 		"role": "ATTACKER",
 		"number": 70,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 3,
@@ -461,7 +460,7 @@
 		"role": "LEFT_BACK",
 		"number": 3,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 5,
@@ -480,7 +479,7 @@
 		"nationality": "BEL",
 		"role": "MIDFIELDER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
@@ -524,7 +523,7 @@
 		"role": "RIGHT_BACK",
 		"number": 30,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 4,

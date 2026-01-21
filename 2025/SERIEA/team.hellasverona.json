@@ -1,6 +1,5 @@
 {
-  "_comment": "Hellas Verona 2025-26",
-"name": "HELLAS VERONA",
+"name": "HELLAS VERONA FC",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SLEEVES",
-		"shirt1": "#89d599",
-		"shirt2": "#33e592",
-		"shirt3": "#80b399",
-		"shorts": "#86e9b2",
-		"socks": "#92c79b"
+		"style": "SIDE_LINES",
+		"shirt1": "#3033c1",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#4715cd",
-		"shirt2": "#70a68d",
-		"shirt3": "#1bbf3e",
-		"shorts": "#2ef545",
-		"socks": "#f3c208"
+		"style": "PLAIN",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	},
 	{
-		"style": "LINE",
-		"shirt1": "#73d31d",
-		"shirt2": "#45627c",
-		"shirt3": "#0e7677",
-		"shorts": "#8b7345",
-		"socks": "#fa2587"
+		"style": "SPICE",
+		"shirt1": "#949494",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#949494",
+		"socks": "#949494"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "DZA",
 		"role": "RIGHT_BACK",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -104,7 +103,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -177,7 +176,7 @@
 		"role": "MIDFIELDER",
 		"number": 24,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
 			"passing": 5,
@@ -204,7 +203,7 @@
 		"role": "MIDFIELDER",
 		"number": 3,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 2,
@@ -251,7 +250,7 @@
 		"nationality": "GER",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -337,7 +336,7 @@
 		"role": "DEFENDER",
 		"number": 9,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 4,
@@ -383,7 +382,7 @@
 		"role": "ATTACKER",
 		"number": 25,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHAVED",
 		"skills": {
 			"passing": 3,
@@ -420,7 +419,7 @@
 		"nationality": "ARG",
 		"role": "DEFENDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -442,7 +441,7 @@
 		"nationality": "CIV",
 		"role": "MIDFIELDER",
 		"number": 11,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -463,12 +462,12 @@
 		]
 	},
 	{
-		"name": "ALMOATASEMBELLAH ALI MOHAMED AL MUSRATI",
+		"name": "ALMOATASEMBELLAH ALI MOHAMED",
 		"shirtName": "AL MUSRATI",
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 73,
-		"skinColor": "RED",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -495,8 +494,8 @@
 		"role": "MIDFIELDER",
 		"number": 21,
 		"skinColor": "BLACK",
-		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_G",
+		"hairColor": "RED",
+		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 2,
 			"shooting": 5,
@@ -521,7 +520,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 70,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {

@@ -1,6 +1,5 @@
 {
-  "_comment": "Udinese 2025-26",
-"name": "UDINESE",
+"name": "UDINESE CALCIO",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_V",
-		"shirt1": "#0c4a1c",
-		"shirt2": "#a1792e",
-		"shirt3": "#b212bd",
-		"shorts": "#cbde2d",
-		"socks": "#b5fa2b"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
 		"style": "SPICE",
-		"shirt1": "#2cee3e",
-		"shirt2": "#ab6771",
-		"shirt3": "#3877b0",
-		"shorts": "#5980cc",
-		"socks": "#a72128"
+		"shirt1": "#47bfeb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#47bfeb",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "BAND",
-		"shirt1": "#4034ba",
-		"shirt2": "#d2cd9a",
-		"shirt3": "#0d8ed8",
-		"shorts": "#44c67d",
-		"socks": "#d7d14b"
+		"style": "SIDE_LINES",
+		"shirt1": "#ffd200",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#ffd200",
+		"socks": "#ffd200"
 	}
 ],
 "players": [
@@ -80,7 +79,7 @@
 		"nationality": "FRA",
 		"role": "DEFENDER",
 		"number": 28,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -153,7 +152,7 @@
 		"nationality": "SWE",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -178,7 +177,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 9,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -202,8 +201,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 32,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 1,
@@ -359,7 +358,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 31,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -405,7 +404,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 93,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_A",
 		"value": 32
@@ -416,7 +415,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 33,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -463,7 +462,7 @@
 		"role": "DEFENDER",
 		"number": 17,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 4,
@@ -488,7 +487,7 @@
 		"number": 38,
 		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,
 			"shooting": 4,
@@ -508,7 +507,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -578,8 +577,8 @@
 		"nationality": "GER",
 		"role": "DEFENDER",
 		"number": 16,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 2,
@@ -601,7 +600,7 @@
 		"role": "ATTACKER",
 		"number": 7,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 2,

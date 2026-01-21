@@ -1,6 +1,5 @@
 {
-  "_comment": "Cremonese 2025-26",
-"name": "CREMONESE",
+"name": "US CREMONESE",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#b89380",
-		"shirt2": "#ec35d0",
-		"shirt3": "#50ddf4",
-		"shorts": "#32516e",
-		"socks": "#67c099"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#949494",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	},
 	{
 		"style": "LINE",
-		"shirt1": "#b43e68",
-		"shirt2": "#6b5824",
-		"shirt3": "#d98efc",
-		"shorts": "#3d8b7e",
-		"socks": "#8b1c46"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#a31212",
+		"shirt3": "#a31212",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
 		"style": "PLAIN",
-		"shirt1": "#aaf11e",
-		"shirt2": "#b4a8d9",
-		"shirt3": "#69733a",
-		"shorts": "#93b84b",
-		"socks": "#57ba8f"
+		"shirt1": "#1e1e1e",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "ITA",
 		"role": "RIGHT_BACK",
 		"number": 24,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SHORT_C",
 		"skills": {
@@ -170,7 +169,7 @@
 		"role": "MIDFIELDER",
 		"number": 32,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 3,
@@ -216,7 +215,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 90,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -297,7 +296,7 @@
 		"nationality": "ITA",
 		"role": "RIGHT_BACK",
 		"number": 4,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -320,7 +319,7 @@
 		"nationality": "ITA",
 		"role": "RIGHT_BACK",
 		"number": 22,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -393,8 +392,8 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 69,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_B",
 		"value": 37
 	},
@@ -427,8 +426,8 @@
 		"nationality": "NOR",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "MULATTO",
-		"hairColor": "RED",
+		"skinColor": "ARAB",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
 			"passing": 4,
@@ -449,7 +448,7 @@
 		"nationality": "ITA",
 		"role": "DEFENDER",
 		"number": 55,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -472,7 +471,7 @@
 		"role": "DEFENDER",
 		"number": 23,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 3,

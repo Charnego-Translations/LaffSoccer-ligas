@@ -1,6 +1,5 @@
 {
-  "_comment": "Milan 2025-26",
-"name": "MILAN",
+"name": "AC MILAN",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
+		"style": "VERTICAL",
+		"shirt1": "#f61c1c",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
+	},
+	{
 		"style": "SPICE",
-		"shirt1": "#3c5993",
-		"shirt2": "#9b20da",
-		"shirt3": "#00c3b6",
-		"shorts": "#803bb7",
-		"socks": "#9a9735"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#ff4ae3",
-		"shirt2": "#a443f2",
-		"shirt3": "#55d683",
-		"shorts": "#08c660",
-		"socks": "#e2aa96"
-	},
-	{
-		"style": "BAND",
-		"shirt1": "#7ea5a2",
-		"shirt2": "#9f7564",
-		"shirt3": "#6f706a",
-		"shorts": "#e7fbcd",
-		"socks": "#0fb512"
+		"style": "PLAIN",
+		"shirt1": "#cac47d",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#cac47d",
+		"socks": "#cac47d"
 	}
 ],
 "players": [
@@ -102,7 +101,7 @@
 		"nationality": "SRB",
 		"role": "DEFENDER",
 		"number": 31,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
@@ -145,7 +144,7 @@
 		]
 	},
 	{
-		"name": "OLUWAFIKAYOMI OLUWADAMILOLA TOMORI",
+		"name": "OLUWAFIKAYOMI OLUWADAMILOLA",
 		"shirtName": "TOMORI",
 		"nationality": "ESP",
 		"role": "DEFENDER",
@@ -227,7 +226,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 12,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SHORT_C",
 		"skills": {
@@ -246,12 +245,12 @@
 		]
 	},
 	{
-		"name": "RAFAEL ALEXANDRE DA CONCEIÇÃO LEÃO",
+		"name": "RAFAEL ALEXANDRE DA CONCEIÇÃO",
 		"shirtName": "LEÃO",
 		"nationality": "POR",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -310,7 +309,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -384,7 +383,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 2,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -415,7 +414,7 @@
 		"nationality": "BEL",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -464,7 +463,7 @@
 		"nationality": "SUI",
 		"role": "RIGHT_BACK",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BROWN",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -540,7 +539,7 @@
 		"nationality": "GER",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -585,7 +584,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 80,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -605,7 +604,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 96,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "GRAY",
 		"hairStyle": "CURLY_A",
 		"value": 31

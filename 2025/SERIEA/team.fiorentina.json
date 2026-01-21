@@ -1,6 +1,5 @@
 {
-  "_comment": "Fiorentina 2025-26",
-"name": "FIORENTINA",
+"name": "ACF FIORENTINA",
 "type": "CLUB",
 "country": "ITA",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "ARMBAND",
-		"shirt1": "#0c2e4a",
-		"shirt2": "#1fe356",
-		"shirt3": "#8c2672",
-		"shorts": "#2642e5",
-		"socks": "#488a7a"
+		"style": "SPICE",
+		"shirt1": "#5d2399",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#5d2399",
+		"socks": "#5d2399"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#86cbaa",
-		"shirt2": "#e4bb70",
-		"shirt3": "#fadcb9",
-		"shorts": "#1ad0d4",
-		"socks": "#19a90b"
+		"style": "PLAIN",
+		"shirt1": "#949494",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#949494",
+		"socks": "#949494"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#02e32e",
-		"shirt2": "#6543f3",
-		"shirt3": "#c864ea",
-		"shorts": "#62188e",
-		"socks": "#fe555c"
+		"style": "PLAIN",
+		"shirt1": "#47bfeb",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#47bfeb",
+		"socks": "#47bfeb"
 	}
 ],
 "players": [
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 2,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 3,
@@ -79,7 +78,7 @@
 		"nationality": "GER",
 		"role": "LEFT_BACK",
 		"number": 21,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -101,7 +100,7 @@
 		"nationality": "CRO",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
@@ -168,7 +167,7 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -212,7 +211,7 @@
 		"role": "MIDFIELDER",
 		"number": 7,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 2,
@@ -236,7 +235,7 @@
 		"role": "DEFENDER",
 		"number": 20,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
 			"passing": 5,
@@ -260,7 +259,7 @@
 		"role": "ATTACKER",
 		"number": 10,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 2,
@@ -294,7 +293,7 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 27,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -399,7 +398,7 @@
 		"role": "MIDFIELDER",
 		"number": 14,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
 			"passing": 4,
@@ -511,14 +510,14 @@
 		]
 	},
 	{
-		"name": "N'DA KONAN BIENVENU ANGE EDDY KOUADIO",
+		"name": "N'DA KONAN BIENVENU ANGE EDDY",
 		"shirtName": "KOUADIO",
 		"nationality": "CIV",
 		"role": "DEFENDER",
 		"number": 60,
-		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
-		"hairStyle": "BALD_B",
+		"skinColor": "BLACK",
+		"hairColor": "GRAY",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 5,
 			"shooting": 3,
